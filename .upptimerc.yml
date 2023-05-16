@@ -64,32 +64,22 @@ sites:
   url: https://wiki.adminforge.de
 - name: WikiLess wiki.froth.zone
   url: https://wiki.froth.zone
-- name: WikiLess wiki.privacytools.io
-  url: https://wiki.privacytools.io
 - name: WikiLess wiki.slipfox.xyz
   url: https://wiki.slipfox.xyz
-- name: WikiLess wikiless.esmailelbob.xyz/
-  url: https://wikiless.esmailelbob.xyz/
+- name: WikiLess wikiless.esmailelbob.xyz
+  url: https://wikiless.esmailelbob.xyz
 - name: WikiLess wikiless.funami.tech
   url: https://wikiless.funami.tech
-- name: WikiLess wikiless.lunar.icu
-  url: https://wikiless.lunar.icu
 - name: WikiLess wikiless.northboot.xyz
   url: https://wikiless.northboot.xyz
 - name: WikiLess wikiless.org
   url: https://wikiless.org
 - name: WikiLess wikiless.rawbit.ninja
   url: https://wikiless.rawbit.ninja
-- name: WikiLess wikiless.sethforprivacy.com
-  url: https://wikiless.sethforprivacy.com
 - name: WikiLess wikiless.tiekoetter.com
   url: https://wikiless.tiekoetter.com
 - name: WikiLess wl.vern.cc
   url: https://wl.vern.cc
-- name: librarian (discontinued) lbn.frail.duckdns.org
-  url: https://lbn.frail.duckdns.org
-  icon: 
-    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) lbry.mywire.org
   url: https://lbry.mywire.org
   icon: 
