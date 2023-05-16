@@ -23,9 +23,16 @@ jobs:
     - name: Updating instances
       run: python custom/update_instances.py
     - name: Commit changes
+      id: commit
       uses: EndBug/add-and-commit@v9
       with:
         add: '.upptimerc.yml'
         message: 'Update Instances'
         default_author: github_actions
         push: true
+    - name: Activate setup if commit made
+      if: ${{ commit.commited == true }}
+      uses: benc-uk/workflow-dispatch@v1
+      with:
+        workflow: Setup CI
+        token: ${{ secrets.GH_PAT }}
