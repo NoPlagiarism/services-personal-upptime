@@ -1,6 +1,8 @@
 owner: NoPlagiarism
 repo: services-personal-upptime
 
+user-agent: "@NoPlagiarism / services-personal-upptime"
+
 sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
