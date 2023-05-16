@@ -1,4 +1,4 @@
-name: Parse
+name: Update Instances
 
 on:
   schedule:
