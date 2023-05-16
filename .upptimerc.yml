@@ -88,24 +88,44 @@ sites:
   url: https://wl.vern.cc
 - name: librarian (discontinued) lbn.frail.duckdns.org
   url: https://lbn.frail.duckdns.org
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) lbry.mywire.org
   url: https://lbry.mywire.org
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) lbry.ooguy.com
   url: https://lbry.ooguy.com
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) lbry.projectsegfau.lt
   url: https://lbry.projectsegfau.lt
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) lbry.ramondia.net
   url: https://lbry.ramondia.net
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) lbry.slipfox.xyz
   url: https://lbry.slipfox.xyz
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) lbry.vern.cc
   url: https://lbry.vern.cc
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) librarian.esmailelbob.xyz
   url: https://librarian.esmailelbob.xyz
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) librarian.pussthecat.org
   url: https://librarian.pussthecat.org
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 - name: librarian (discontinued) odysee.076.ne.jp
   url: https://odysee.076.ne.jp
+  icon: 
+    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
 status-website:
   theme: dark
   name: Services upptime
