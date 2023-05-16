@@ -1,24 +1,123 @@
 owner: NoPlagiarism
 repo: services-personal-upptime
 
-user-agent: "@NoPlagiarism / services-personal-upptime"
+user-agent: '@NoPlagiarism / services-personal-upptime'
 
 sites:
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+- name: ProxiTok cringe.whatever.social
+  url: https://cringe.whatever.social
+- name: ProxiTok proxitok.esmailelbob.xyz
+  url: https://proxitok.esmailelbob.xyz
+- name: ProxiTok proxitok.lunar.icu
+  url: https://proxitok.lunar.icu
+- name: ProxiTok proxitok.pabloferreiro.es
+  url: https://proxitok.pabloferreiro.es
+- name: ProxiTok proxitok.privacy.com.de
+  url: https://proxitok.privacy.com.de
+- name: ProxiTok proxitok.privacydev.net
+  url: https://proxitok.privacydev.net
+- name: ProxiTok proxitok.pussthecat.org
+  url: https://proxitok.pussthecat.org
+- name: ProxiTok tik.hostux.net
+  url: https://tik.hostux.net
+- name: ProxiTok tiktok.chauvet.pro
+  url: https://tiktok.chauvet.pro
+- name: ProxiTok tok.adminforge.de
+  url: https://tok.adminforge.de
+- name: ProxiTok tok.artemislena.eu
+  url: https://tok.artemislena.eu
+- name: ProxiTok tok.habedieeh.re
+  url: https://tok.habedieeh.re
+- name: ProxiTok tt.vern.cc
+  url: https://tt.vern.cc
+- name: GotHub dev.gh.akisblack.dev
+  url: https://dev.gh.akisblack.dev
+- name: GotHub gh.akisblack.dev
+  url: https://gh.akisblack.dev
+- name: GotHub gh.creller.net
+  url: https://gh.creller.net
+- name: GotHub gh.dev.odyssey346.dev
+  url: https://gh.dev.odyssey346.dev
+- name: GotHub gh.fascinated.cc
+  url: https://gh.fascinated.cc
+- name: GotHub gh.odyssey346.dev
+  url: https://gh.odyssey346.dev
+- name: GotHub gh.phreedom.club
+  url: https://gh.phreedom.club
+- name: GotHub gh.riverside.rocks
+  url: https://gh.riverside.rocks
+- name: GotHub gothub.dev.projectsegfau.lt
+  url: https://gothub.dev.projectsegfau.lt
+- name: GotHub gothub.esmailelbob.xyz
+  url: https://gothub.esmailelbob.xyz
+- name: GotHub gothub.lunar.icu
+  url: https://gothub.lunar.icu
+- name: GotHub gothub.no-logs.com
+  url: https://gothub.no-logs.com
+- name: GotHub gothub.projectsegfau.lt
+  url: https://gothub.projectsegfau.lt
+- name: GotHub gothub.xbdm.fun
+  url: https://gothub.xbdm.fun
+- name: WikiLess wiki.604kph.xyz
+  url: https://wiki.604kph.xyz
+- name: WikiLess wiki.adminforge.de
+  url: https://wiki.adminforge.de
+- name: WikiLess wiki.froth.zone
+  url: https://wiki.froth.zone
+- name: WikiLess wiki.privacytools.io
+  url: https://wiki.privacytools.io
+- name: WikiLess wiki.slipfox.xyz
+  url: https://wiki.slipfox.xyz
+- name: WikiLess wikiless.esmailelbob.xyz/
+  url: https://wikiless.esmailelbob.xyz/
+- name: WikiLess wikiless.funami.tech
+  url: https://wikiless.funami.tech
+- name: WikiLess wikiless.lunar.icu
+  url: https://wikiless.lunar.icu
+- name: WikiLess wikiless.northboot.xyz
+  url: https://wikiless.northboot.xyz
+- name: WikiLess wikiless.org
+  url: https://wikiless.org
+- name: WikiLess wikiless.rawbit.ninja
+  url: https://wikiless.rawbit.ninja
+- name: WikiLess wikiless.sethforprivacy.com
+  url: https://wikiless.sethforprivacy.com
+- name: WikiLess wikiless.tiekoetter.com
+  url: https://wikiless.tiekoetter.com
+- name: WikiLess wl.vern.cc
+  url: https://wl.vern.cc
+- name: librarian (discontinued) lbn.frail.duckdns.org
+  url: https://lbn.frail.duckdns.org
+- name: librarian (discontinued) lbry.mywire.org
+  url: https://lbry.mywire.org
+- name: librarian (discontinued) lbry.ooguy.com
+  url: https://lbry.ooguy.com
+- name: librarian (discontinued) lbry.projectsegfau.lt
+  url: https://lbry.projectsegfau.lt
+- name: librarian (discontinued) lbry.ramondia.net
+  url: https://lbry.ramondia.net
+- name: librarian (discontinued) lbry.slipfox.xyz
+  url: https://lbry.slipfox.xyz
+- name: librarian (discontinued) lbry.vern.cc
+  url: https://lbry.vern.cc
+- name: librarian (discontinued) librarian.esmailelbob.xyz
+  url: https://librarian.esmailelbob.xyz
+- name: librarian (discontinued) librarian.pussthecat.org
+  url: https://librarian.pussthecat.org
+- name: librarian (discontinued) odysee.076.ne.jp
+  url: https://odysee.076.ne.jp
 status-website:
   theme: dark
   name: Services upptime
-  baseUrl: "/services-personal-upptime"
-  introTitle: "Services (usually frontend-alternatives) upptime"
-  introMessage: "Check links above. They're cool :D"
+  baseUrl: /services-personal-upptime
+  introTitle: Services (usually frontend-alternatives) upptime
+  introMessage: Check links above. They're cool :D
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Frontend instances lists
-      href: https://github.com/NoPlagiarism/frontend-instances-list
-    - title: Alternative Frontends
-      href: https://github.com/digitalblossom/alternative-frontends
+  - title: Status
+    href: /
+  - title: GitHub
+    href: https://github.com/$OWNER/$REPO
+  - title: Frontend instances lists
+    href: https://github.com/NoPlagiarism/frontend-instances-list
+  - title: Alternative Frontends
+    href: https://github.com/digitalblossom/alternative-frontends
