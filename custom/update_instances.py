@@ -13,6 +13,10 @@ ALL_JSON_URL = "https://raw.githubusercontent.com/NoPlagiarism/frontend-instance
 UPPTIMERC_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), ".upptimerc.yml")
 
 SERVICES = ("proxitok", "gothub", "wikiless", "librarian (discontinued)")
+SERVICE_ICONS = {"proxitok": "https://raw.githubusercontent.com/pablouser1/ProxiTok/master/favicon-32x32.png",
+                 "gothub": "https://codeberg.org/gothub/gothub/raw/branch/dev/public/assets/favicon.ico",
+                 "wikiless": "https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/static/wikiless-favicon.ico",
+                 "librarian (discontinued)": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png"}
 
 
 def get_url_from_domain(domain):
@@ -121,7 +125,8 @@ def main():
     for service in SERVICES:
         name = instance_data.get_name_by_id(service)
         for domain in instance_data.get_clearnet_instances_by_id(service):
-            new_sites.append(Site(name=f"{name} {domain}", url=get_url_from_domain(domain)))
+            new_sites.append(Site(name=f"{name} {domain}", url=get_url_from_domain(domain),
+                                  icon=SERVICE_ICONS.get(name)))
     old_sites = Site.from_tuple(upptime_cfg.get_sites())
     if old_sites == new_sites:
         return
