@@ -3,7 +3,7 @@ name: Update Instances
 on:
   schedule:
     - cron: '00 15 */3 * *'
-  workflow_dispatch: []
+  workflow_dispatch: {}
 
 jobs:
   build:
