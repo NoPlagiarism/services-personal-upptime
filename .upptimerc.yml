@@ -64,6 +64,8 @@ sites:
   url: https://wiki.adminforge.de
 - name: WikiLess wiki.froth.zone
   url: https://wiki.froth.zone
+- name: WikiLess wiki.privacytools.io
+  url: https://wiki.privacytools.io
 - name: WikiLess wiki.slipfox.xyz
   url: https://wiki.slipfox.xyz
 - name: WikiLess wikiless.esmailelbob.xyz
