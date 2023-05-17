@@ -118,6 +118,28 @@ sites:
   url: https://odysee.076.ne.jp
   icon: 
     https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
+- name: AnonymousOverflow anonymousoverflow.esmailelbob.xyz
+  url: https://anonymousoverflow.esmailelbob.xyz
+- name: AnonymousOverflow ao.foss.wtf
+  url: https://ao.foss.wtf
+- name: AnonymousOverflow ao.vern.cc
+  url: https://ao.vern.cc
+- name: AnonymousOverflow code.whatever.social
+  url: https://code.whatever.social
+- name: AnonymousOverflow overflow.777.tf
+  url: https://overflow.777.tf
+- name: AnonymousOverflow overflow.adminforge.de
+  url: https://overflow.adminforge.de
+- name: AnonymousOverflow overflow.fascinated.cc
+  url: https://overflow.fascinated.cc
+- name: AnonymousOverflow overflow.hostux.net
+  url: https://overflow.hostux.net
+- name: AnonymousOverflow overflow.lunar.icu
+  url: https://overflow.lunar.icu
+- name: AnonymousOverflow overflow.projectsegfau.lt
+  url: https://overflow.projectsegfau.lt
+- name: AnonymousOverflow overflow.smnz.de
+  url: https://overflow.smnz.de
 status-website:
   theme: dark
   name: Services upptime
