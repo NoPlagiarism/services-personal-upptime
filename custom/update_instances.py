@@ -12,11 +12,12 @@ HEADERS = {"User-Agent": "@NoPlagiarism / services-personal-upptime"}
 ALL_JSON_URL = "https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-list/master/instances/all.json"
 UPPTIMERC_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), ".upptimerc.yml")
 
-SERVICES = ("proxitok", "gothub", "wikiless", "librarian (discontinued)")
+SERVICES = ("proxitok", "gothub", "wikiless", "librarian (discontinued)", "anonymousoverflow")
 SERVICE_ICONS = {"proxitok": "https://raw.githubusercontent.com/pablouser1/ProxiTok/master/favicon-32x32.png",
                  "gothub": "https://codeberg.org/gothub/gothub/raw/branch/dev/public/assets/favicon.ico",
                  "wikiless": "https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/static/wikiless-favicon.ico",
-                 "librarian (discontinued)": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png"}
+                 "librarian (discontinued)": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
+                 "anonymousoverflow": "https://raw.githubusercontent.com/httpjamesm/AnonymousOverflow/main/public/codecircles.png"}
 
 
 def get_url_from_domain(domain):
