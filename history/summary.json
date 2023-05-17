@@ -221,11 +221,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tt.vern.cc.ico",
     "slug": "proxi-tok-tt-vern-cc",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "97.64%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
     "time": 1717,
     "timeDay": 1752,
     "timeWeek": 1717,
@@ -486,7 +486,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-05-17": 1280,
+      "2023-05-17": 1289,
       "2023-05-16": 353
     }
   },
@@ -697,11 +697,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wl.vern.cc.ico",
     "slug": "wiki-less-wl-vern-cc",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.69%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 1510,
     "timeDay": 346,
     "timeWeek": 1510,
@@ -807,11 +807,11 @@
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-vern-cc",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "97.72%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
     "time": 1203,
     "timeDay": 326,
     "timeWeek": 1203,
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 333
+      "2023-05-17": 342
     }
   },
   {
@@ -955,18 +955,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.777.tf.ico",
     "slug": "anonymous-overflow-overflow-777-tf",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 333
+      "2023-05-17": 342
     }
   },
   {
@@ -1130,7 +1130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 291
+      "2023-05-17": 300
     }
   },
   {
@@ -1150,7 +1150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 291
+      "2023-05-17": 300
     }
   },
   {
@@ -1350,7 +1350,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 291
+      "2023-05-17": 299
     }
   },
   {
@@ -1610,19 +1610,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
-    "time": 12875,
-    "timeDay": 12875,
-    "timeWeek": 12875,
-    "timeMonth": 12875,
-    "timeYear": 12875,
+    "status": "down",
+    "uptime": "3.36%",
+    "uptimeDay": "3.36%",
+    "uptimeWeek": "3.36%",
+    "uptimeMonth": "3.36%",
+    "uptimeYear": "3.36%",
+    "time": 15936,
+    "timeDay": 15936,
+    "timeWeek": 15936,
+    "timeMonth": 15936,
+    "timeYear": 15936,
     "dailyMinutesDown": {
-      "2023-05-17": 288
+      "2023-05-17": 289
     }
   },
   {
@@ -1721,18 +1721,18 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-lr-aeong-one",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 72,
     "timeDay": 72,
     "timeWeek": 72,
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2023-05-17": 289
+      "2023-05-17": 298
     }
   },
   {
@@ -1903,18 +1903,18 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-r-walkx-fyi",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 180,
     "timeDay": 180,
     "timeWeek": 180,
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-05-17": 289
+      "2023-05-17": 298
     }
   },
   {
@@ -1923,18 +1923,18 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-rd-777-tf",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 289
+      "2023-05-17": 298
     }
   },
   {
@@ -1972,7 +1972,7 @@
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-05-17": 578
+      "2023-05-17": 596
     }
   },
   {
@@ -2136,7 +2136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 578
+      "2023-05-17": 594
     }
   },
   {
@@ -2210,7 +2210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 576
+      "2023-05-17": 594
     }
   },
   {
