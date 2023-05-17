@@ -148,7 +148,7 @@ status-website:
   introMessage: Check links above. They're cool :D
   navbar:
   - title: Status
-    href: /
+    href: /services-personal-upptime
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
   - title: Frontend instances lists
