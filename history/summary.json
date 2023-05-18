@@ -167,19 +167,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tok.adminforge.de.ico",
     "slug": "proxi-tok-tok-adminforge-de",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 643,
     "timeDay": 678,
     "timeWeek": 643,
     "timeMonth": 643,
     "timeYear": 643,
-    "dailyMinutesDown": {
-      "2023-05-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProxiTok tok.artemislena.eu",
@@ -204,18 +202,20 @@
     "url": "https://tok.habedieeh.re",
     "icon": "https://icons.duckduckgo.com/ip3/tok.habedieeh.re.ico",
     "slug": "proxi-tok-tok-habedieeh-re",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 369,
     "timeDay": 365,
     "timeWeek": 369,
     "timeMonth": 369,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-18": 4
+    }
   },
   {
     "name": "ProxiTok tt.vern.cc",
@@ -223,13 +223,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/tt.vern.cc.ico",
     "slug": "proxi-tok-tt-vern-cc",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
     "time": 1625,
-    "timeDay": 1335,
+    "timeDay": 888,
     "timeWeek": 1625,
     "timeMonth": 1625,
     "timeYear": 1625,
@@ -488,7 +488,7 @@
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2023-05-18": 479,
+      "2023-05-18": 649,
       "2023-05-17": 1440,
       "2023-05-16": 353
     }
@@ -517,19 +517,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.adminforge.de.ico",
     "slug": "wiki-less-wiki-adminforge-de",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 863,
     "timeDay": 887,
     "timeWeek": 863,
     "timeMonth": 863,
     "timeYear": 863,
-    "dailyMinutesDown": {
-      "2023-05-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WikiLess wiki.froth.zone",
@@ -556,7 +554,7 @@
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "51.96%",
+    "uptimeDay": "73.57%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -613,11 +611,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.funami.tech.ico",
     "slug": "wiki-less-wikiless-funami-tech",
     "status": "up",
-    "uptime": "96.58%",
+    "uptime": "96.81%",
     "uptimeDay": "94.60%",
-    "uptimeWeek": "96.58%",
-    "uptimeMonth": "96.58%",
-    "uptimeYear": "96.58%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "96.81%",
     "time": 918,
     "timeDay": 805,
     "timeWeek": 918,
@@ -706,11 +704,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wl.vern.cc.ico",
     "slug": "wiki-less-wl-vern-cc",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.34%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
     "time": 1421,
     "timeDay": 338,
     "timeWeek": 1421,
@@ -816,11 +814,11 @@
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-vern-cc",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.48%",
     "time": 1121,
     "timeDay": 333,
     "timeWeek": 1121,
@@ -919,7 +917,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 479,
+      "2023-05-18": 649,
       "2023-05-17": 493
     }
   },
@@ -976,7 +974,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 479,
+      "2023-05-18": 649,
       "2023-05-17": 493
     }
   },
@@ -1141,7 +1139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 479,
+      "2023-05-18": 649,
       "2023-05-17": 451
     }
   },
@@ -1162,7 +1160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 479,
+      "2023-05-18": 649,
       "2023-05-17": 451
     }
   },
@@ -1363,7 +1361,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 479,
+      "2023-05-18": 649,
       "2023-05-17": 450
     }
   },
@@ -1625,18 +1623,18 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "1.08%",
-    "uptimeDay": "1.08%",
-    "uptimeWeek": "1.08%",
-    "uptimeMonth": "1.08%",
-    "uptimeYear": "1.08%",
+    "uptime": "0.91%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.91%",
+    "uptimeMonth": "0.91%",
+    "uptimeYear": "0.91%",
     "time": 17924,
     "timeDay": 17924,
     "timeWeek": 17924,
     "timeMonth": 17924,
     "timeYear": 17924,
     "dailyMinutesDown": {
-      "2023-05-18": 480,
+      "2023-05-18": 650,
       "2023-05-17": 440
     }
   },
@@ -1747,7 +1745,7 @@
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-05-18": 480,
+      "2023-05-18": 650,
       "2023-05-17": 449
     }
   },
@@ -1930,7 +1928,7 @@
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-05-18": 480,
+      "2023-05-18": 650,
       "2023-05-17": 448
     }
   },
@@ -1951,7 +1949,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 480,
+      "2023-05-18": 650,
       "2023-05-17": 448
     }
   },
@@ -1990,7 +1988,7 @@
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-05-18": 960,
+      "2023-05-18": 1300,
       "2023-05-17": 896
     }
   },
@@ -2036,11 +2034,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-reddit-invak-id",
     "status": "up",
-    "uptime": "94.56%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "94.56%",
-    "uptimeYear": "94.56%",
+    "uptime": "95.40%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "95.40%",
     "time": 3335,
     "timeDay": 3335,
     "timeWeek": 3335,
@@ -2157,7 +2155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 960,
+      "2023-05-18": 1300,
       "2023-05-17": 896
     }
   },
@@ -2232,7 +2230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 871,
+      "2023-05-18": 1041,
       "2023-05-17": 896
     }
   },
@@ -2296,11 +2294,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/breezewiki.pussthecat.org.ico",
     "slug": "breeze-wiki-breezewiki-pussthecat-org",
     "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "97.92%",
+    "uptime": "98.24%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.24%",
     "time": 561,
     "timeDay": 561,
     "timeWeek": 561,
