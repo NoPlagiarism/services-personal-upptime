@@ -221,13 +221,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/tt.vern.cc.ico",
     "slug": "proxi-tok-tt-vern-cc",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "98.94%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "98.18%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "98.19%",
     "time": 1542,
-    "timeDay": 313,
+    "timeDay": 410,
     "timeWeek": 1542,
     "timeMonth": 1542,
     "timeYear": 1542,
@@ -487,7 +487,7 @@
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2023-05-18": 1168,
+      "2023-05-18": 1192,
       "2023-05-17": 1440,
       "2023-05-16": 353
     }
@@ -552,11 +552,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "up",
-    "uptime": "22.29%",
+    "uptime": "23.39%",
     "uptimeDay": "97.74%",
-    "uptimeWeek": "22.29%",
-    "uptimeMonth": "22.29%",
-    "uptimeYear": "22.29%",
+    "uptimeWeek": "23.39%",
+    "uptimeMonth": "23.39%",
+    "uptimeYear": "23.39%",
     "time": 716,
     "timeDay": 637,
     "timeWeek": 716,
@@ -573,18 +573,20 @@
     "url": "https://wiki.slipfox.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.slipfox.xyz.ico",
     "slug": "wiki-less-wiki-slipfox-xyz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 226,
     "timeDay": 368,
     "timeWeek": 226,
     "timeMonth": 226,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-18": 3
+    }
   },
   {
     "name": "WikiLess wikiless.esmailelbob.xyz",
@@ -610,11 +612,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.funami.tech.ico",
     "slug": "wiki-less-wikiless-funami-tech",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.39%",
     "uptimeDay": "94.60%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.37%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "97.39%",
+    "uptimeYear": "97.39%",
     "time": 918,
     "timeDay": 790,
     "timeWeek": 918,
@@ -685,11 +687,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.tiekoetter.com.ico",
     "slug": "wiki-less-wikiless-tiekoetter-com",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "98.52%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 1014,
     "timeDay": 1029,
     "timeWeek": 1014,
@@ -705,13 +707,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/wl.vern.cc.ico",
     "slug": "wiki-less-wl-vern-cc",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "98.94%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
     "time": 1335,
-    "timeDay": 335,
+    "timeDay": 460,
     "timeWeek": 1335,
     "timeMonth": 1335,
     "timeYear": 1335,
@@ -816,11 +818,11 @@
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-vern-cc",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.24%",
     "uptimeDay": "98.93%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.22%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.24%",
     "time": 1052,
     "timeDay": 446,
     "timeWeek": 1052,
@@ -920,7 +922,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1168,
+      "2023-05-18": 1192,
       "2023-05-17": 493
     }
   },
@@ -930,11 +932,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ao.vern.cc.ico",
     "slug": "anonymous-overflow-ao-vern-cc",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "98.94%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 320,
     "timeDay": 391,
     "timeWeek": 320,
@@ -979,7 +981,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1168,
+      "2023-05-18": 1192,
       "2023-05-17": 493
     }
   },
@@ -1144,7 +1146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1168,
+      "2023-05-18": 1192,
       "2023-05-17": 451
     }
   },
@@ -1165,7 +1167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1168,
+      "2023-05-18": 1192,
       "2023-05-17": 451
     }
   },
@@ -1366,7 +1368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1168,
+      "2023-05-18": 1192,
       "2023-05-17": 450
     }
   },
@@ -1628,18 +1630,18 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "0.62%",
+    "uptime": "0.61%",
     "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
+    "uptimeWeek": "0.61%",
+    "uptimeMonth": "0.61%",
+    "uptimeYear": "0.61%",
     "time": 17924,
     "timeDay": 15686,
     "timeWeek": 17924,
     "timeMonth": 17924,
     "timeYear": 17924,
     "dailyMinutesDown": {
-      "2023-05-18": 1168,
+      "2023-05-18": 1192,
       "2023-05-17": 440
     }
   },
@@ -1667,11 +1669,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-tiekoetter-com",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.71%",
     "uptimeDay": "98.53%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 1899,
     "timeDay": 1800,
     "timeWeek": 1899,
@@ -1752,7 +1754,7 @@
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-05-18": 1168,
+      "2023-05-18": 1193,
       "2023-05-17": 449
     }
   },
@@ -1935,7 +1937,7 @@
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-05-18": 1169,
+      "2023-05-18": 1193,
       "2023-05-17": 448
     }
   },
@@ -1956,7 +1958,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1169,
+      "2023-05-18": 1193,
       "2023-05-17": 448
     }
   },
@@ -1995,7 +1997,7 @@
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-05-18": 2338,
+      "2023-05-18": 2386,
       "2023-05-17": 896
     }
   },
@@ -2041,11 +2043,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-reddit-invak-id",
     "status": "up",
-    "uptime": "96.88%",
+    "uptime": "96.93%",
     "uptimeDay": "96.50%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.88%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "96.93%",
     "time": 3066,
     "timeDay": 3561,
     "timeWeek": 3066,
@@ -2162,7 +2164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 2338,
+      "2023-05-18": 2386,
       "2023-05-17": 896
     }
   },
@@ -2237,7 +2239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1560,
+      "2023-05-18": 1584,
       "2023-05-17": 896
     }
   },
@@ -2301,11 +2303,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/breezewiki.pussthecat.org.ico",
     "slug": "breeze-wiki-breezewiki-pussthecat-org",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.82%",
     "uptimeDay": "98.66%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
     "time": 584,
     "timeDay": 591,
     "timeWeek": 584,
