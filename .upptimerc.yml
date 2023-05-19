@@ -336,6 +336,86 @@ sites:
   url: https://bw.artemislena.eu
 - name: BreezeWiki bw.projectsegfau.lt
   url: https://bw.projectsegfau.lt
+- name: rimgo i.01r.xyz
+  url: https://i.01r.xyz
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo i.habedieeh.re
+  url: https://i.habedieeh.re
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo imgur.010032.xyz
+  url: https://imgur.010032.xyz
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo imgur.artemislena.eu
+  url: https://imgur.artemislena.eu
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo ri.zzls.xyz
+  url: https://ri.zzls.xyz
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rim.odyssey346.dev
+  url: https://rim.odyssey346.dev
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.bus-hit.me
+  url: https://rimgo.bus-hit.me
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.esmailelbob.xyz
+  url: https://rimgo.esmailelbob.xyz
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.eu.projectsegfau.lt
+  url: https://rimgo.eu.projectsegfau.lt
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.fascinated.cc
+  url: https://rimgo.fascinated.cc
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.hostux.net
+  url: https://rimgo.hostux.net
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.in.projectsegfau.lt
+  url: https://rimgo.in.projectsegfau.lt
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.kling.gg
+  url: https://rimgo.kling.gg
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.lunar.icu
+  url: https://rimgo.lunar.icu
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.privacytools.io
+  url: https://rimgo.privacytools.io
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.pussthecat.org
+  url: https://rimgo.pussthecat.org
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.totaldarkness.net
+  url: https://rimgo.totaldarkness.net
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.us.projectsegfau.lt
+  url: https://rimgo.us.projectsegfau.lt
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.vern.cc
+  url: https://rimgo.vern.cc
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+- name: rimgo rimgo.xbdm.fun
+  url: https://rimgo.xbdm.fun
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
 status-website:
   theme: dark
   name: Services upptime
