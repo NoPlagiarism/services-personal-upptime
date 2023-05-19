@@ -487,7 +487,7 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 353
@@ -553,11 +553,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "up",
-    "uptime": "56.15%",
+    "uptime": "56.29%",
     "uptimeDay": "96.62%",
-    "uptimeWeek": "56.15%",
-    "uptimeMonth": "56.15%",
-    "uptimeYear": "56.15%",
+    "uptimeWeek": "56.29%",
+    "uptimeMonth": "56.29%",
+    "uptimeYear": "56.29%",
     "time": 733,
     "timeDay": 767,
     "timeWeek": 733,
@@ -575,19 +575,19 @@
     "url": "https://wiki.slipfox.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.slipfox.xyz.ico",
     "slug": "wiki-less-wiki-slipfox-xyz",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 236,
-    "timeDay": 268,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 220,
+    "timeDay": 207,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-05-19": 3
+      "2023-05-19": 10
     }
   },
   {
@@ -924,7 +924,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 493
     }
@@ -984,7 +984,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 493
     }
@@ -1152,7 +1152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 451
     }
@@ -1174,7 +1174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 451
     }
@@ -1376,7 +1376,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 450
     }
@@ -1639,18 +1639,18 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "0.61%",
+    "uptime": "0.60%",
     "uptimeDay": "0.58%",
-    "uptimeWeek": "0.61%",
-    "uptimeMonth": "0.61%",
-    "uptimeYear": "0.61%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
     "time": 16162,
     "timeDay": 14400,
     "timeWeek": 16162,
     "timeMonth": 16162,
     "timeYear": 16162,
     "dailyMinutesDown": {
-      "2023-05-19": 1131,
+      "2023-05-19": 1141,
       "2023-05-18": 1440,
       "2023-05-17": 440
     }
@@ -1764,7 +1764,7 @@
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 449
     }
@@ -1948,7 +1948,7 @@
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 448
     }
@@ -1970,7 +1970,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1440,
       "2023-05-17": 448
     }
@@ -2010,7 +2010,7 @@
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2023-05-19": 2278,
+      "2023-05-19": 2298,
       "2023-05-18": 2880,
       "2023-05-17": 896
     }
@@ -2057,11 +2057,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-reddit-invak-id",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "98.53%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "97.63%",
-    "uptimeYear": "97.63%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "97.64%",
     "time": 2580,
     "timeDay": 1934,
     "timeWeek": 2580,
@@ -2179,7 +2179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 2278,
+      "2023-05-19": 2298,
       "2023-05-18": 2880,
       "2023-05-17": 896
     }
@@ -2255,7 +2255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 1139,
+      "2023-05-19": 1149,
       "2023-05-18": 1831,
       "2023-05-17": 896
     }
@@ -2423,7 +2423,7 @@
     "timeMonth": 624,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-05-19": 383
+      "2023-05-19": 393
     }
   },
   {
@@ -2641,7 +2641,7 @@
     "timeMonth": 3630,
     "timeYear": 3630,
     "dailyMinutesDown": {
-      "2023-05-19": 383
+      "2023-05-19": 393
     }
   },
   {
@@ -2733,7 +2733,7 @@
     "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-05-19": 383
+      "2023-05-19": 393
     }
   }
 ]
