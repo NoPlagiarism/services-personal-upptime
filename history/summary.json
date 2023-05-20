@@ -149,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktok.chauvet.pro.ico",
     "slug": "proxi-tok-tiktok-chauvet-pro",
     "status": "down",
-    "uptime": "93.40%",
-    "uptimeDay": "73.71%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "93.40%",
+    "uptime": "93.27%",
+    "uptimeDay": "73.14%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "93.27%",
     "time": 875,
     "timeDay": 899,
     "timeWeek": 875,
     "timeMonth": 875,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-05-20": 379
+      "2023-05-20": 387
     }
   },
   {
@@ -489,7 +489,7 @@
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1072,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -556,11 +556,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "up",
-    "uptime": "69.13%",
+    "uptime": "69.19%",
     "uptimeDay": "98.65%",
-    "uptimeWeek": "69.13%",
-    "uptimeMonth": "69.13%",
-    "uptimeYear": "69.13%",
+    "uptimeWeek": "69.19%",
+    "uptimeMonth": "69.19%",
+    "uptimeYear": "69.19%",
     "time": 770,
     "timeDay": 934,
     "timeWeek": 770,
@@ -616,11 +616,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.funami.tech.ico",
     "slug": "wiki-less-wikiless-funami-tech",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 882,
     "timeDay": 717,
     "timeWeek": 882,
@@ -711,11 +711,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wl.vern.cc.ico",
     "slug": "wiki-less-wl-vern-cc",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 1379,
     "timeDay": 3689,
     "timeWeek": 1379,
@@ -928,7 +928,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1072,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 493
@@ -940,11 +940,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ao.vern.cc.ico",
     "slug": "anonymous-overflow-ao-vern-cc",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 309,
     "timeDay": 252,
     "timeWeek": 309,
@@ -989,7 +989,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1072,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 493
@@ -1158,7 +1158,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1072,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 451
@@ -1181,7 +1181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1072,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 451
@@ -1228,19 +1228,19 @@
     "url": "https://libreddit.dcs0.hu",
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-dcs0-hu",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1841,
-    "timeDay": 1812,
-    "timeWeek": 1841,
-    "timeMonth": 1841,
-    "timeYear": 1841,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1819,
+    "timeDay": 1759,
+    "timeWeek": 1819,
+    "timeMonth": 1819,
+    "timeYear": 1819,
     "dailyMinutesDown": {
-      "2023-05-20": 3
+      "2023-05-20": 8
     }
   },
   {
@@ -1386,7 +1386,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1073,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 450
@@ -1661,7 +1661,7 @@
     "timeMonth": 15341,
     "timeYear": 15341,
     "dailyMinutesDown": {
-      "2023-05-20": 1022,
+      "2023-05-20": 1031,
       "2023-05-19": 1432,
       "2023-05-18": 1440,
       "2023-05-17": 440
@@ -1776,7 +1776,7 @@
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1073,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 449
@@ -1961,7 +1961,7 @@
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1073,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 448
@@ -1984,7 +1984,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1073,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 448
@@ -2025,7 +2025,7 @@
     "timeMonth": 321,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2023-05-20": 2128,
+      "2023-05-20": 2146,
       "2023-05-19": 2880,
       "2023-05-18": 2880,
       "2023-05-17": 896
@@ -2195,7 +2195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 2128,
+      "2023-05-20": 2146,
       "2023-05-19": 2880,
       "2023-05-18": 2880,
       "2023-05-17": 896
@@ -2272,7 +2272,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1073,
       "2023-05-19": 1440,
       "2023-05-18": 1831,
       "2023-05-17": 896
@@ -2441,7 +2441,7 @@
     "timeMonth": 563,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1073,
       "2023-05-19": 684
     }
   },
@@ -2660,7 +2660,7 @@
     "timeMonth": 3670,
     "timeYear": 3670,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1073,
       "2023-05-19": 684
     }
   },
@@ -2753,7 +2753,7 @@
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-05-20": 1064,
+      "2023-05-20": 1073,
       "2023-05-19": 683
     }
   }
