@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.lunar.icu.ico",
     "slug": "proxi-tok-proxitok-lunar-icu",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.78%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 599,
     "timeDay": 855,
     "timeWeek": 599,
     "timeMonth": 599,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2023-05-22": 4
+      "2023-05-22": 18
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktok.chauvet.pro.ico",
     "slug": "proxi-tok-tiktok-chauvet-pro",
     "status": "down",
-    "uptime": "65.72%",
+    "uptime": "65.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.72%",
-    "uptimeMonth": "65.72%",
-    "uptimeYear": "65.72%",
+    "uptimeWeek": "65.61%",
+    "uptimeMonth": "65.61%",
+    "uptimeYear": "65.61%",
     "time": 854,
     "timeDay": 745,
     "timeWeek": 854,
     "timeMonth": 854,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 613,
       "2023-05-21": 1440,
       "2023-05-20": 755
     }
@@ -431,19 +431,19 @@
     "url": "https://gothub.lunar.icu",
     "icon": "https://icons.duckduckgo.com/ip3/gothub.lunar.icu.ico",
     "slug": "got-hub-gothub-lunar-icu",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 617,
-    "timeDay": 386,
-    "timeWeek": 617,
-    "timeMonth": 617,
-    "timeYear": 617,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 602,
+    "timeDay": 384,
+    "timeWeek": 602,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-05-22": 4
+      "2023-05-22": 14
     }
   },
   {
@@ -499,7 +499,7 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -568,11 +568,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "up",
-    "uptime": "79.70%",
+    "uptime": "79.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.70%",
-    "uptimeMonth": "79.70%",
-    "uptimeYear": "79.70%",
+    "uptimeWeek": "79.74%",
+    "uptimeMonth": "79.74%",
+    "uptimeYear": "79.74%",
     "time": 697,
     "timeDay": 673,
     "timeWeek": 697,
@@ -944,7 +944,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1007,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1074,19 +1074,19 @@
     "url": "https://overflow.lunar.icu",
     "icon": "https://icons.duckduckgo.com/ip3/overflow.lunar.icu.ico",
     "slug": "anonymous-overflow-overflow-lunar-icu",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
-    "time": 601,
-    "timeDay": 554,
-    "timeWeek": 601,
-    "timeMonth": 601,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 604,
+    "timeDay": 593,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-05-22": 3,
+      "2023-05-22": 14,
       "2023-05-19": 20
     }
   },
@@ -1179,7 +1179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1204,7 +1204,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1411,7 +1411,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1496,19 +1496,19 @@
     "url": "https://libreddit.lunar.icu",
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-lunar-icu",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1264,
-    "timeDay": 1793,
-    "timeWeek": 1264,
-    "timeMonth": 1264,
-    "timeYear": 1264,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1284,
+    "timeDay": 1611,
+    "timeWeek": 1284,
+    "timeMonth": 1284,
+    "timeYear": 1284,
     "dailyMinutesDown": {
-      "2023-05-22": 3
+      "2023-05-22": 14
     }
   },
   {
@@ -1690,7 +1690,7 @@
     "timeMonth": 17771,
     "timeYear": 17771,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1393,
       "2023-05-20": 1391,
       "2023-05-19": 1432,
@@ -1807,7 +1807,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1994,7 +1994,7 @@
     "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -2019,7 +2019,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 600,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -2062,7 +2062,7 @@
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-05-22": 1200,
+      "2023-05-22": 1228,
       "2023-05-21": 2880,
       "2023-05-20": 2880,
       "2023-05-19": 2880,
@@ -2234,7 +2234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 1200,
+      "2023-05-22": 1228,
       "2023-05-21": 2880,
       "2023-05-20": 2880,
       "2023-05-19": 2880,
@@ -2313,7 +2313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 601,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -2486,7 +2486,7 @@
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2023-05-22": 601,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 684
@@ -2679,19 +2679,19 @@
     "url": "https://rimgo.lunar.icu",
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-lunar-icu",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 585,
-    "timeDay": 595,
-    "timeWeek": 585,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 590,
+    "timeDay": 602,
+    "timeWeek": 590,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {
-      "2023-05-22": 1
+      "2023-05-22": 14
     }
   },
   {
@@ -2711,7 +2711,7 @@
     "timeMonth": 3579,
     "timeYear": 3579,
     "dailyMinutesDown": {
-      "2023-05-22": 601,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 684
@@ -2806,7 +2806,7 @@
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-05-22": 601,
+      "2023-05-22": 614,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 683
