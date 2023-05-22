@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.lunar.icu.ico",
     "slug": "proxi-tok-proxitok-lunar-icu",
     "status": "down",
-    "uptime": "94.33%",
-    "uptimeDay": "66.01%",
-    "uptimeWeek": "94.33%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "94.33%",
+    "uptime": "94.12%",
+    "uptimeDay": "64.62%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "94.12%",
+    "uptimeYear": "94.12%",
     "time": 594,
     "timeDay": 692,
     "timeWeek": 594,
     "timeMonth": 594,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2023-05-22": 489
+      "2023-05-22": 509
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktok.chauvet.pro.ico",
     "slug": "proxi-tok-tiktok-chauvet-pro",
     "status": "down",
-    "uptime": "62.03%",
+    "uptime": "61.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.03%",
-    "uptimeMonth": "62.03%",
-    "uptimeYear": "62.03%",
+    "uptimeWeek": "61.89%",
+    "uptimeMonth": "61.89%",
+    "uptimeYear": "61.89%",
     "time": 854,
     "timeDay": 803,
     "timeWeek": 854,
     "timeMonth": 854,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2023-05-22": 1085,
+      "2023-05-22": 1105,
       "2023-05-21": 1440,
       "2023-05-20": 755
     }
@@ -497,7 +497,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2023-05-22": 1085,
+      "2023-05-22": 1105,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -566,11 +566,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "up",
-    "uptime": "81.04%",
+    "uptime": "81.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.04%",
-    "uptimeMonth": "81.04%",
-    "uptimeYear": "81.04%",
+    "uptimeWeek": "81.09%",
+    "uptimeMonth": "81.09%",
+    "uptimeYear": "81.09%",
     "time": 704,
     "timeDay": 720,
     "timeWeek": 704,
@@ -801,19 +801,19 @@
     "url": "https://lbry.ramondia.net",
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-ramondia-net",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 593,
-    "timeDay": 435,
-    "timeWeek": 593,
-    "timeMonth": 593,
-    "timeYear": 593,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 588,
+    "timeDay": 447,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2023-05-22": 42
+      "2023-05-22": 59
     }
   },
   {
@@ -1110,7 +1110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1135,7 +1135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1342,7 +1342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1608,18 +1608,18 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "1.57%",
+    "uptime": "1.56%",
     "uptimeDay": "0.56%",
-    "uptimeWeek": "1.57%",
-    "uptimeMonth": "1.57%",
-    "uptimeYear": "1.57%",
+    "uptimeWeek": "1.56%",
+    "uptimeMonth": "1.56%",
+    "uptimeYear": "1.56%",
     "time": 17814,
     "timeDay": 20238,
     "timeWeek": 17814,
     "timeMonth": 17814,
     "timeYear": 17814,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1393,
       "2023-05-20": 1391,
       "2023-05-19": 1432,
@@ -1736,7 +1736,7 @@
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1923,7 +1923,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1948,7 +1948,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1991,7 +1991,7 @@
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-05-22": 2172,
+      "2023-05-22": 2212,
       "2023-05-21": 2880,
       "2023-05-20": 2880,
       "2023-05-19": 2880,
@@ -2163,7 +2163,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 2172,
+      "2023-05-22": 2212,
       "2023-05-21": 2880,
       "2023-05-20": 2880,
       "2023-05-19": 2880,
@@ -2242,7 +2242,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -2415,7 +2415,7 @@
     "timeMonth": 692,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 684
@@ -2638,7 +2638,7 @@
     "timeMonth": 3597,
     "timeYear": 3597,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 684
@@ -2733,7 +2733,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-05-22": 1086,
+      "2023-05-22": 1106,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 683
