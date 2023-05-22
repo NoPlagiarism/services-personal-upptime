@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.lunar.icu.ico",
     "slug": "proxi-tok-proxitok-lunar-icu",
     "status": "down",
-    "uptime": "95.33%",
-    "uptimeDay": "72.28%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "95.33%",
+    "uptime": "95.23%",
+    "uptimeDay": "71.66%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "95.23%",
+    "uptimeYear": "95.23%",
     "time": 594,
     "timeDay": 692,
     "timeWeek": 594,
     "timeMonth": 594,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2023-05-22": 399
+      "2023-05-22": 408
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktok.chauvet.pro.ico",
     "slug": "proxi-tok-tiktok-chauvet-pro",
     "status": "down",
-    "uptime": "62.69%",
+    "uptime": "62.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.69%",
-    "uptimeMonth": "62.69%",
-    "uptimeYear": "62.69%",
+    "uptimeWeek": "62.62%",
+    "uptimeMonth": "62.62%",
+    "uptimeYear": "62.62%",
     "time": 854,
     "timeDay": 803,
     "timeWeek": 854,
     "timeMonth": 854,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2023-05-22": 995,
+      "2023-05-22": 1004,
       "2023-05-21": 1440,
       "2023-05-20": 755
     }
@@ -497,7 +497,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2023-05-22": 995,
+      "2023-05-22": 1004,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -566,11 +566,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "up",
-    "uptime": "80.80%",
+    "uptime": "80.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.80%",
-    "uptimeMonth": "80.80%",
-    "uptimeYear": "80.80%",
+    "uptimeWeek": "80.83%",
+    "uptimeMonth": "80.83%",
+    "uptimeYear": "80.83%",
     "time": 704,
     "timeDay": 720,
     "timeWeek": 704,
@@ -705,7 +705,7 @@
     "slug": "wiki-less-wikiless-tiekoetter-com",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "99.24%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.57%",
@@ -1110,7 +1110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 995,
+      "2023-05-22": 1004,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1135,7 +1135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 995,
+      "2023-05-22": 1004,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1342,7 +1342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1004,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1619,7 +1619,7 @@
     "timeMonth": 17814,
     "timeYear": 17814,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1005,
       "2023-05-21": 1393,
       "2023-05-20": 1391,
       "2023-05-19": 1432,
@@ -1736,7 +1736,7 @@
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1005,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1749,19 +1749,19 @@
     "url": "https://lr.artemislena.eu",
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-lr-artemislena-eu",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1827,
-    "timeDay": 1368,
-    "timeWeek": 1827,
-    "timeMonth": 1827,
-    "timeYear": 1827,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1813,
+    "timeDay": 1465,
+    "timeWeek": 1813,
+    "timeMonth": 1813,
+    "timeYear": 1813,
     "dailyMinutesDown": {
-      "2023-05-22": 2
+      "2023-05-22": 9
     }
   },
   {
@@ -1925,7 +1925,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1005,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1950,7 +1950,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1005,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1993,7 +1993,7 @@
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-05-22": 1992,
+      "2023-05-22": 2010,
       "2023-05-21": 2880,
       "2023-05-20": 2880,
       "2023-05-19": 2880,
@@ -2165,7 +2165,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 1992,
+      "2023-05-22": 2010,
       "2023-05-21": 2880,
       "2023-05-20": 2880,
       "2023-05-19": 2880,
@@ -2244,7 +2244,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1005,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -2331,19 +2331,19 @@
     "url": "https://bw.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bw.artemislena.eu.ico",
     "slug": "breeze-wiki-bw-artemislena-eu",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1034,
-    "timeDay": 1465,
-    "timeWeek": 1034,
-    "timeMonth": 1034,
-    "timeYear": 1034,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 998,
+    "timeDay": 1243,
+    "timeWeek": 998,
+    "timeMonth": 998,
+    "timeYear": 998,
     "dailyMinutesDown": {
-      "2023-05-22": 1
+      "2023-05-22": 9
     }
   },
   {
@@ -2419,7 +2419,7 @@
     "timeMonth": 692,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1005,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 684
@@ -2642,7 +2642,7 @@
     "timeMonth": 3597,
     "timeYear": 3597,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1005,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 684
@@ -2737,7 +2737,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-05-22": 996,
+      "2023-05-22": 1005,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 683
