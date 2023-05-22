@@ -22,19 +22,19 @@
     "url": "https://proxitok.esmailelbob.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.esmailelbob.xyz.ico",
     "slug": "proxi-tok-proxitok-esmailelbob-xyz",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 522,
-    "timeDay": 272,
-    "timeWeek": 522,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 515,
+    "timeDay": 317,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2023-05-22": 11
+      "2023-05-22": 15
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiktok.chauvet.pro.ico",
     "slug": "proxi-tok-tiktok-chauvet-pro",
     "status": "down",
-    "uptime": "68.90%",
+    "uptime": "68.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.90%",
-    "uptimeMonth": "68.90%",
-    "uptimeYear": "68.90%",
+    "uptimeWeek": "68.84%",
+    "uptimeMonth": "68.84%",
+    "uptimeYear": "68.84%",
     "time": 854,
     "timeDay": 745,
     "timeWeek": 854,
     "timeMonth": 854,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 231,
       "2023-05-21": 1440,
       "2023-05-20": 755
     }
@@ -412,19 +412,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gothub.esmailelbob.xyz.ico",
     "slug": "got-hub-gothub-esmailelbob-xyz",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 462,
     "timeDay": 645,
     "timeWeek": 462,
     "timeMonth": 462,
     "timeYear": 462,
-    "dailyMinutesDown": {
-      "2023-05-22": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GotHub gothub.lunar.icu",
@@ -497,7 +495,7 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 231,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -566,11 +564,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "up",
-    "uptime": "78.52%",
+    "uptime": "78.55%",
     "uptimeDay": "98.66%",
-    "uptimeWeek": "78.52%",
-    "uptimeMonth": "78.52%",
-    "uptimeYear": "78.52%",
+    "uptimeWeek": "78.55%",
+    "uptimeMonth": "78.55%",
+    "uptimeYear": "78.55%",
     "time": 683,
     "timeDay": 358,
     "timeWeek": 683,
@@ -608,19 +606,19 @@
     "url": "https://wikiless.esmailelbob.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/wikiless.esmailelbob.xyz.ico",
     "slug": "wiki-less-wikiless-esmailelbob-xyz",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 622,
-    "timeDay": 431,
-    "timeWeek": 622,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 604,
+    "timeDay": 402,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-05-22": 11
+      "2023-05-22": 15
     }
   },
   {
@@ -859,19 +857,17 @@
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-librarian-esmailelbob-xyz",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 718,
     "timeDay": 1497,
     "timeWeek": 718,
     "timeMonth": 718,
     "timeYear": 718,
-    "dailyMinutesDown": {
-      "2023-05-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "librarian (discontinued) librarian.pussthecat.org",
@@ -944,7 +940,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 231,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1007,7 +1003,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 231,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1178,7 +1174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1203,7 +1199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1410,7 +1406,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1687,7 +1683,7 @@
     "timeMonth": 17771,
     "timeYear": 17771,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 232,
       "2023-05-21": 1393,
       "2023-05-20": 1391,
       "2023-05-19": 1432,
@@ -1804,7 +1800,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -1991,7 +1987,7 @@
     "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -2016,7 +2012,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -2059,7 +2055,7 @@
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-05-22": 448,
+      "2023-05-22": 464,
       "2023-05-21": 2880,
       "2023-05-20": 2880,
       "2023-05-19": 2880,
@@ -2231,7 +2227,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 448,
+      "2023-05-22": 464,
       "2023-05-21": 2880,
       "2023-05-20": 2880,
       "2023-05-19": 2880,
@@ -2310,7 +2306,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 224,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -2481,7 +2477,7 @@
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2023-05-22": 225,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 684
@@ -2704,7 +2700,7 @@
     "timeMonth": 3579,
     "timeYear": 3579,
     "dailyMinutesDown": {
-      "2023-05-22": 225,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 684
@@ -2799,7 +2795,7 @@
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-05-22": 225,
+      "2023-05-22": 232,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 683
