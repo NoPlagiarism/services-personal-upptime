@@ -316,14 +316,10 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
 - name: BreezeWiki antifandom.com
   url: https://antifandom.com
-- name: BreezeWiki breeze.777.tf
-  url: https://breeze.777.tf
 - name: BreezeWiki breeze.hostux.net
   url: https://breeze.hostux.net
 - name: BreezeWiki breezewiki.com
   url: https://breezewiki.com
-- name: BreezeWiki breezewiki.esmailelbob.xyz
-  url: https://breezewiki.esmailelbob.xyz
 - name: BreezeWiki breezewiki.pussthecat.org
   url: https://breezewiki.pussthecat.org
 - name: BreezeWiki bw.artemislena.eu
@@ -356,10 +352,6 @@ sites:
     https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
 - name: rimgo rimgo.bus-hit.me
   url: https://rimgo.bus-hit.me
-  icon: 
-    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
-- name: rimgo rimgo.esmailelbob.xyz
-  url: https://rimgo.esmailelbob.xyz
   icon: 
     https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
 - name: rimgo rimgo.eu.projectsegfau.lt
