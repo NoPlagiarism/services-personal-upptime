@@ -1,7 +1,7 @@
 url: https://rimgo.us.projectsegfau.lt
-status: up
-code: 200
-responseTime: 311
-lastUpdated: 2023-05-28T06:15:31.960Z
+status: down
+code: 502
+responseTime: 405
+lastUpdated: 2023-05-29T13:31:33.099Z
 startTime: Fri May 19 2023 12:36:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
