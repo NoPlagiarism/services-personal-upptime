@@ -8,6 +8,13 @@ import json
 import httpx
 from ruamel.yaml import YAML, yaml_object, CommentedSeq
 
+
+def make_seq_inline(x):
+    # https://stackoverflow.com/questions/56937691/making-yaml-ruamel-yaml-always-dump-lists-inline#56939573
+    x.fa.set_flow_style()
+    return x
+
+
 HEADERS = {"User-Agent": "@NoPlagiarism / services-personal-upptime"}
 ALL_JSON_URL = "https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-list/master/instances/all.json"
 UPPTIMERC_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), ".upptimerc.yml")
@@ -21,6 +28,7 @@ SERVICE_ICONS = {"proxitok": "https://raw.githubusercontent.com/pablouser1/Proxi
                  "libreddit": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
                  "breezewiki": "https://gitdab.com/cadence/breezewiki/raw/branch/main/static/breezewiki-icon-color.svg",
                  "rimgo": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg"}
+EXPECTED_STATUS_CODES = [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 
 
 def get_url_from_domain(domain):
@@ -81,12 +89,14 @@ class SitesUpptime:
 
 class Site:
     def __init__(self, name: str, url: str, method: Optional[str] = None, port: Optional[int] = None, body: Optional[str] = None,
-                 icon: Optional[str] = None, expected_status_codes: Optional[tuple] = None, **kwargs):
+                 icon: Optional[str] = None, expected_status_codes: Optional[list] = None, **kwargs):
         self.data = dict(name=name, url=url)
-        for name, value in dict(method=method, port=port, body=body, icon=icon,
-                                expected_status_codes=expected_status_codes, **kwargs).items():
+        for name, value in dict(method=method, port=port, body=body, icon=icon, **kwargs).items():
             if value is not None:
                 self.data[name] = value
+        for name, value in dict(expectedStatusCodes=expected_status_codes).items():
+            if value is not None:
+                self.add_property_list(name, value)
 
     @classmethod
     def from_dict(cls, data: dict):
@@ -101,6 +111,12 @@ class Site:
             self.data.update(other.data)
         else:
             self.data.update(other)
+
+    def add_property_list(self, name, value, is_inline_value=True):
+        self.data[name] = CommentedSeq()
+        self.data[name].extend(value)
+        if is_inline_value:
+            self.data[name] = make_seq_inline(self.data[name])
 
     def __getitem__(self, item):
         return self.data.get(item)
@@ -130,7 +146,7 @@ def main():
         name = instance_data.get_name_by_id(service)
         for domain in instance_data.get_clearnet_instances_by_id(service):
             new_sites.append(Site(name=f"{name} {domain}", url=get_url_from_domain(domain),
-                                  icon=SERVICE_ICONS.get(name)))
+                                  icon=SERVICE_ICONS.get(name), expected_status_codes=EXPECTED_STATUS_CODES))
     old_sites = Site.from_tuple(upptime_cfg.get_sites())
     if old_sites == new_sites:
         return
