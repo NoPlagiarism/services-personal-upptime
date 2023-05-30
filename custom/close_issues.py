@@ -23,7 +23,7 @@ class GitHuby:
 
     def auth(self) -> Github:
         try:
-            token = os.environ["INPUT_TOKEN"]
+            token = os.environ["GH_PAT"]
         except KeyError:
             print("Pleas insert token onto environ")
             exit(-1)
