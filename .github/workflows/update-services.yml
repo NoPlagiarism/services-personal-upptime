@@ -16,12 +16,19 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
-    - name: Install dependencies
+    - name: Install dependencies for update_instances.py
       run: |
         python -m pip install --upgrade pip
-        pip install -r custom/requirements.txt
+        pip install -r custom/requirements_ui.py.txt
     - name: Updating instances
       run: python custom/update_instances.py
+    - name: Install dependencies for clear_issues.py
+      run: |
+        pip install -r custom/requirements_ci.py.txt
+    - name: Clearing issues
+      env:
+        GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      run: python custom/close_issues.py
     - name: Commit changes
       id: commit
       uses: EndBug/add-and-commit@v9
