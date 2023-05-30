@@ -161,8 +161,8 @@ sites:
   icon: 
     https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: librarian (discontinued) odysee.076.ne.jp
-  url: https://odysee.076.ne.jp
+- name: librarian (discontinued) odysee.owacon.moe
+  url: https://odysee.owacon.moe
   icon: 
     https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
@@ -573,4 +573,4 @@ status-website:
   - title: Alternative Frontends
     href: https://github.com/digitalblossom/alternative-frontends
 workflowSchedule:
-  uptime: "*/7 * * * *"
+  uptime: '*/7 * * * *'
