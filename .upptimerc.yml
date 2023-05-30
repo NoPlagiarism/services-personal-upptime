@@ -572,3 +572,5 @@ status-website:
     href: https://github.com/NoPlagiarism/frontend-instances-list
   - title: Alternative Frontends
     href: https://github.com/digitalblossom/alternative-frontends
+workflowSchedule:
+  uptime: "*/7 * * * *"
