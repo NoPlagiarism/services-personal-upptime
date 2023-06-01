@@ -195,20 +195,16 @@ sites:
 - name: AnonymousOverflow overflow.smnz.de
   url: https://overflow.smnz.de
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
+- name: libreddit bob.fr.to
+  url: https://bob.fr.to
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: libreddit discuss.whatever.social
   url: https://discuss.whatever.social
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: libreddit l.opnxng.com
   url: https://l.opnxng.com
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: libreddit libreddit.albr.to
-  url: https://libreddit.albr.to
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: libreddit libreddit.billbert.co
-  url: https://libreddit.billbert.co
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: libreddit libreddit.bus-hit.me
@@ -231,28 +227,12 @@ sites:
   url: https://libreddit.domain.glass
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: libreddit libreddit.esmailelbob.xyz
-  url: https://libreddit.esmailelbob.xyz
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: libreddit libreddit.eu.org
-  url: https://libreddit.eu.org
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: libreddit libreddit.foss.wtf
-  url: https://libreddit.foss.wtf
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: libreddit libreddit.freedit.eu
   url: https://libreddit.freedit.eu
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: libreddit libreddit.garudalinux.org
   url: https://libreddit.garudalinux.org
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: libreddit libreddit.gq
-  url: https://libreddit.gq
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: libreddit libreddit.hu
@@ -379,10 +359,6 @@ sites:
   url: https://r.walkx.fyi
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: libreddit rd.777.tf
-  url: https://rd.777.tf
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: libreddit rd.funami.tech
   url: https://rd.funami.tech
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
@@ -423,8 +399,8 @@ sites:
   url: https://reddit.smnz.de
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
-- name: libreddit reddit.thekitty.zone
-  url: https://reddit.thekitty.zone
+- name: libreddit reddit.utsav2.dev
+  url: https://reddit.utsav2.dev
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: libreddit safereddit.com
@@ -562,6 +538,9 @@ sites:
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 - name: RYD-Proxy ryd-proxy.privacydev.net
   url: https://ryd-proxy.privacydev.net
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
+- name: RYD-Proxy ryd-proxy.whateveritworks.org
+  url: https://ryd-proxy.whateveritworks.org
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 status-website:
   theme: dark
