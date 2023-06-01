@@ -557,6 +557,12 @@ sites:
   icon: 
     https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
+- name: RYD-Proxy ryd-proxy.kavin.rocks
+  url: https://ryd-proxy.kavin.rocks
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
+- name: RYD-Proxy ryd-proxy.privacydev.net
+  url: https://ryd-proxy.privacydev.net
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 status-website:
   theme: dark
   name: Services upptime
