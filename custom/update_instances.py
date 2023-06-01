@@ -19,7 +19,7 @@ HEADERS = {"User-Agent": "@NoPlagiarism / services-personal-upptime"}
 ALL_JSON_URL = "https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-list/master/instances/all.json"
 UPPTIMERC_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), ".upptimerc.yml")
 
-SERVICES = ("proxitok", "gothub", "wikiless", "librarian (discontinued)", "anonymousoverflow", "libreddit", "breezewiki", "rimgo", "rydproxy")
+SERVICES = ("proxitok", "gothub", "wikiless", "librarian (discontinued)", "anonymousoverflow", "libreddit", "breezewiki", "rimgo", "ryd-proxy")
 SERVICE_ICONS = {"proxitok": "https://raw.githubusercontent.com/pablouser1/ProxiTok/master/favicon-32x32.png",
                  "gothub": "https://codeberg.org/gothub/gothub/raw/branch/dev/public/assets/favicon.ico",
                  "wikiless": "https://gitea.slowb.ro/ticoombs/Wikiless/raw/branch/main/static/wikiless-favicon.ico",
@@ -28,7 +28,7 @@ SERVICE_ICONS = {"proxitok": "https://raw.githubusercontent.com/pablouser1/Proxi
                  "libreddit": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
                  "breezewiki": "https://gitdab.com/cadence/breezewiki/raw/branch/main/static/breezewiki-icon-color.svg",
                  "rimgo": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
-                 "rydproxy": "https://raw.githubusercontent.com/Anarios/return-youtube-dislike/main/Icons/128x128_transparent.jpg"}
+                 "ryd-proxy": "https://raw.githubusercontent.com/Anarios/return-youtube-dislike/main/Icons/128x128_transparent.jpg"}
 EXPECTED_STATUS_CODES = [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
 
 
