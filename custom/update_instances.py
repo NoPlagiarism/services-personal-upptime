@@ -29,7 +29,8 @@ SERVICE_ICONS = {"proxitok": "https://raw.githubusercontent.com/pablouser1/Proxi
                  "breezewiki": "https://gitdab.com/cadence/breezewiki/raw/branch/main/static/breezewiki-icon-color.svg",
                  "rimgo": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
                  "ryd-proxy": "https://raw.githubusercontent.com/Anarios/return-youtube-dislike/main/Icons/128x128_transparent.jpg"}
-EXPECTED_STATUS_CODES = [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226]
+EXPECTED_STATUS_CODES = [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226,
+                         403]  # CloudFlare moment
 
 
 def get_url_from_domain(domain):
