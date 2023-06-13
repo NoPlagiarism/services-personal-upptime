@@ -522,6 +522,126 @@ sites:
   url: https://nerd.whatever.social
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: rimgo i.01r.xyz
+  url: https://i.01r.xyz
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo i.habedieeh.re
+  url: https://i.habedieeh.re
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo imgur.010032.xyz
+  url: https://imgur.010032.xyz
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo imgur.artemislena.eu
+  url: https://imgur.artemislena.eu
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo ri.zzls.xyz
+  url: https://ri.zzls.xyz
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rim.odyssey346.dev
+  url: https://rim.odyssey346.dev
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.bus-hit.me
+  url: https://rimgo.bus-hit.me
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.eu.projectsegfau.lt
+  url: https://rimgo.eu.projectsegfau.lt
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.fascinated.cc
+  url: https://rimgo.fascinated.cc
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.hostux.net
+  url: https://rimgo.hostux.net
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.in.projectsegfau.lt
+  url: https://rimgo.in.projectsegfau.lt
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.kling.gg
+  url: https://rimgo.kling.gg
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.lunar.icu
+  url: https://rimgo.lunar.icu
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.nohost.network
+  url: https://rimgo.nohost.network
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.privacytools.io
+  url: https://rimgo.privacytools.io
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.pussthecat.org
+  url: https://rimgo.pussthecat.org
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.totaldarkness.net
+  url: https://rimgo.totaldarkness.net
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.us.projectsegfau.lt
+  url: https://rimgo.us.projectsegfau.lt
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.vern.cc
+  url: https://rimgo.vern.cc
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.whateveritworks.org
+  url: https://rimgo.whateveritworks.org
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: RYD-Proxy ryd-proxy.kavin.rocks
   url: https://ryd-proxy.kavin.rocks
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
