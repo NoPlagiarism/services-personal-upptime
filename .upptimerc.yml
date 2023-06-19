@@ -657,12 +657,12 @@ sites:
 status-website:
   theme: dark
   name: Services upptime
-  baseUrl: /services-personal-upptime
+  baseUrl: /
   introTitle: Services (usually frontend-alternatives) upptime
   introMessage: Check links above. They're cool :D
   navbar:
   - title: Status
-    href: /services-personal-upptime
+    href: /
   - title: GitHub
     href: https://github.com/$OWNER/$REPO
   - title: Frontend instances lists
