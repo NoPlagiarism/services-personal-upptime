@@ -657,6 +657,7 @@ sites:
 status-website:
   theme: dark
   name: Services upptime
+  cname: status.noplagi.xyz
   baseUrl: /
   introTitle: Services (usually frontend-alternatives) upptime
   introMessage: Check links above. They're cool :D
