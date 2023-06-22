@@ -112,6 +112,10 @@ sites:
   url: https://wiki.slipfox.xyz
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: WikiLess wiki.sylentpunk.xyz
+  url: https://wiki.sylentpunk.xyz
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: WikiLess wikiless.esmailelbob.xyz
   url: https://wikiless.esmailelbob.xyz
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
@@ -236,11 +240,6 @@ sites:
   url: https://overflow.smnz.de
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit discuss.whatever.social
-  url: https://discuss.whatever.social
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: libreddit l.opnxng.com
   url: https://l.opnxng.com
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
@@ -253,11 +252,6 @@ sites:
     403]
 - name: libreddit libreddit.cachyos.org
   url: https://libreddit.cachyos.org
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: libreddit libreddit.dcs0.hu
-  url: https://libreddit.dcs0.hu
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
@@ -293,6 +287,11 @@ sites:
     403]
 - name: libreddit libreddit.kutay.dev
   url: https://libreddit.kutay.dev
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.kylrth.com
+  url: https://libreddit.kylrth.com
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
@@ -386,11 +385,6 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit lr.odyssey346.dev
-  url: https://lr.odyssey346.dev
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: libreddit lr.riverside.rocks
   url: https://lr.riverside.rocks
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
@@ -453,6 +447,11 @@ sites:
     403]
 - name: libreddit reddit.leptons.xyz
   url: https://reddit.leptons.xyz
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit reddit.moe.ngo
+  url: https://reddit.moe.ngo
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
@@ -534,12 +533,6 @@ sites:
     https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: rimgo imgur.010032.xyz
-  url: https://imgur.010032.xyz
-  icon: 
-    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: rimgo imgur.artemislena.eu
   url: https://imgur.artemislena.eu
   icon: 
@@ -606,12 +599,6 @@ sites:
     https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: rimgo rimgo.privacytools.io
-  url: https://rimgo.privacytools.io
-  icon: 
-    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: rimgo rimgo.pussthecat.org
   url: https://rimgo.pussthecat.org
   icon: 
@@ -644,10 +631,6 @@ sites:
     403]
 - name: RYD-Proxy ryd-proxy.kavin.rocks
   url: https://ryd-proxy.kavin.rocks
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: RYD-Proxy ryd-proxy.privacydev.net
-  url: https://ryd-proxy.privacydev.net
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: RYD-Proxy ryd-proxy.whateveritworks.org
