@@ -1,7 +1,7 @@
 url: https://reddit.smnz.de
-status: up
-code: 200
-responseTime: 1313
-lastUpdated: 2023-06-23T19:03:07.971Z
+status: down
+code: 503
+responseTime: 1267
+lastUpdated: 2023-06-23T22:56:07.322Z
 startTime: Wed May 17 2023 16:32:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
