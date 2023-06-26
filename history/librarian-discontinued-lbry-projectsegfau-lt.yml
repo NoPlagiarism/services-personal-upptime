@@ -1,7 +1,7 @@
 url: https://lbry.projectsegfau.lt
-status: up
-code: 200
-responseTime: 431
-lastUpdated: 2023-06-26T10:39:57.301Z
+status: down
+code: 502
+responseTime: 393
+lastUpdated: 2023-06-26T13:06:49.458Z
 startTime: Tue May 16 2023 18:09:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
