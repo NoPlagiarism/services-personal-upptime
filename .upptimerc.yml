@@ -68,16 +68,16 @@ sites:
   url: https://gh.bloatcat.tk
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: GotHub gh.fascinated.cc
+  url: https://gh.fascinated.cc
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: GotHub gh.whateveritworks.org
   url: https://gh.whateveritworks.org
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: GotHub gothub.dev.projectsegfau.lt
   url: https://gothub.dev.projectsegfau.lt
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: GotHub gothub.lunar.icu
-  url: https://gothub.lunar.icu
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: GotHub gothub.no-logs.com
@@ -281,6 +281,11 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: libreddit libreddit.kavin.rocks
+  url: https://libreddit.kavin.rocks
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: libreddit libreddit.kutay.dev
   url: https://libreddit.kutay.dev
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
@@ -341,6 +346,11 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: libreddit libreddit.spike.codes
+  url: https://libreddit.spike.codes
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: libreddit libreddit.strongthany.cc
   url: https://libreddit.strongthany.cc
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
@@ -348,11 +358,6 @@ sites:
     403]
 - name: libreddit libreddit.tiekoetter.com
   url: https://libreddit.tiekoetter.com
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: libreddit libreddit.totaldarkness.net
-  url: https://libreddit.totaldarkness.net
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
