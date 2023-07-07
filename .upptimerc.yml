@@ -346,11 +346,6 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit libreddit.spike.codes
-  url: https://libreddit.spike.codes
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: libreddit libreddit.strongthany.cc
   url: https://libreddit.strongthany.cc
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
