@@ -100,6 +100,10 @@ sites:
   url: https://wiki.froth.zone
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: WikiLess wiki.phreedom.club
+  url: https://wiki.phreedom.club
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: WikiLess wiki.privacytools.io
   url: https://wiki.privacytools.io
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
@@ -116,6 +120,10 @@ sites:
   url: https://wikiless.esmailelbob.xyz
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: WikiLess wikiless.fascinated.cc
+  url: https://wikiless.fascinated.cc
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: WikiLess wikiless.funami.tech
   url: https://wikiless.funami.tech
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
@@ -128,12 +136,20 @@ sites:
   url: https://wikiless.org
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: WikiLess wikiless.pufe.org
+  url: https://wikiless.pufe.org
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: WikiLess wikiless.rawbit.ninja
   url: https://wikiless.rawbit.ninja
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: WikiLess wikiless.tiekoetter.com
   url: https://wikiless.tiekoetter.com
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: WikiLess wikiless.whateveritworks.org
+  url: https://wikiless.whateveritworks.org
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: WikiLess wl.vern.cc
