@@ -1,7 +1,7 @@
 url: https://breeze.nohost.network
-status: up
-code: 200
-responseTime: 254
-lastUpdated: 2023-07-10T23:17:33.620Z
+status: down
+code: 502
+responseTime: 199
+lastUpdated: 2023-07-10T23:30:34.879Z
 startTime: Mon May 29 2023 15:04:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
