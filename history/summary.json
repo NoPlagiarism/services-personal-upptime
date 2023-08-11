@@ -106,7 +106,7 @@
     "timeMonth": 661,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2023-08-11": 296
+      "2023-08-11": 314
     }
   },
   {
@@ -403,18 +403,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.604kph.xyz.ico",
     "slug": "wiki-less-wiki-604kph-xyz",
     "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
+    "uptime": "0.48%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.48%",
+    "uptimeMonth": "0.48%",
+    "uptimeYear": "0.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 292
+      "2023-08-11": 310
     }
   },
   {
@@ -477,18 +477,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
     "status": "down",
-    "uptime": "0.52%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.52%",
-    "uptimeMonth": "0.52%",
-    "uptimeYear": "0.52%",
+    "uptime": "0.49%",
+    "uptimeDay": "0.49%",
+    "uptimeWeek": "0.49%",
+    "uptimeMonth": "0.49%",
+    "uptimeYear": "0.49%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 291
+      "2023-08-11": 308
     }
   },
   {
@@ -515,18 +515,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.sylentpunk.xyz.ico",
     "slug": "wiki-less-wiki-sylentpunk-xyz",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 291
+      "2023-08-11": 308
     }
   },
   {
@@ -564,7 +564,7 @@
     "timeMonth": 328,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2023-08-11": 278
+      "2023-08-11": 295
     }
   },
   {
@@ -933,18 +933,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ao.vern.cc.ico",
     "slug": "anonymous-overflow-ao-vern-cc",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 200,
     "timeDay": 200,
     "timeWeek": 200,
     "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2023-08-11": 290
+      "2023-08-11": 308
     }
   },
   {
@@ -1000,7 +1000,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 277
+      "2023-08-11": 295
     }
   },
   {
@@ -1020,7 +1020,7 @@
     "timeMonth": 331,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-08-11": 290
+      "2023-08-11": 308
     }
   },
   {
@@ -1065,11 +1065,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.projectsegfau.lt.ico",
     "slug": "anonymous-overflow-overflow-projectsegfau-lt",
     "status": "up",
-    "uptime": "93.46%",
-    "uptimeDay": "93.46%",
-    "uptimeWeek": "93.46%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "93.46%",
+    "uptime": "93.84%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "93.84%",
+    "uptimeMonth": "93.84%",
+    "uptimeYear": "93.84%",
     "time": 766,
     "timeDay": 766,
     "timeWeek": 766,
@@ -1840,19 +1840,19 @@
     "url": "https://bw.projectsegfau.lt",
     "icon": "https://icons.duckduckgo.com/ip3/bw.projectsegfau.lt.ico",
     "slug": "breeze-wiki-bw-projectsegfau-lt",
-    "status": "down",
-    "uptime": "93.26%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "93.26%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "93.26%",
-    "time": 409,
-    "timeDay": 409,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "status": "up",
+    "uptime": "88.10%",
+    "uptimeDay": "88.10%",
+    "uptimeWeek": "88.10%",
+    "uptimeMonth": "88.10%",
+    "uptimeYear": "88.10%",
+    "time": 494,
+    "timeDay": 494,
+    "timeWeek": 494,
+    "timeMonth": 494,
+    "timeYear": 494,
     "dailyMinutesDown": {
-      "2023-08-11": 20
+      "2023-08-11": 37
     }
   },
   {
@@ -1980,7 +1980,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 289
+      "2023-08-11": 307
     }
   },
   {
@@ -2043,18 +2043,18 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-fascinated-cc",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 302,
     "timeDay": 302,
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-08-11": 289
+      "2023-08-11": 307
     }
   },
   {
