@@ -40,18 +40,20 @@
     "url": "https://proxitok.esmailelbob.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.esmailelbob.xyz.ico",
     "slug": "proxi-tok-proxitok-esmailelbob-xyz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 721,
     "timeDay": 464,
     "timeWeek": 721,
     "timeMonth": 721,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-12": 5
+    }
   },
   {
     "name": "ProxiTok proxitok.lunar.icu",
@@ -106,7 +108,7 @@
     "timeMonth": 616,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2023-08-12": 1109,
+      "2023-08-12": 1118,
       "2023-08-11": 831
     }
   },
@@ -417,7 +419,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 1109,
+      "2023-08-12": 1118,
       "2023-08-11": 827
     }
   },
@@ -492,7 +494,7 @@
     "timeMonth": 832,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2023-08-12": 1109,
+      "2023-08-12": 1118,
       "2023-08-11": 806
     }
   },
@@ -531,7 +533,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 1109,
+      "2023-08-12": 1118,
       "2023-08-11": 826
     }
   },
@@ -570,7 +572,7 @@
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2023-08-12": 1109,
+      "2023-08-12": 1118,
       "2023-08-11": 812
     }
   },
@@ -955,7 +957,7 @@
     "timeMonth": 1152,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2023-08-12": 1109,
+      "2023-08-12": 1118,
       "2023-08-11": 825
     }
   },
@@ -1012,7 +1014,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 1109,
+      "2023-08-12": 1118,
       "2023-08-11": 812
     }
   },
@@ -1033,7 +1035,7 @@
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-08-12": 1109,
+      "2023-08-12": 1118,
       "2023-08-11": 825
     }
   },
@@ -1079,11 +1081,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.projectsegfau.lt.ico",
     "slug": "anonymous-overflow-overflow-projectsegfau-lt",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.31%",
     "uptimeDay": "99.04%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.30%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 629,
     "timeDay": 287,
     "timeWeek": 629,
@@ -1300,11 +1302,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-privacydev-net",
     "status": "up",
-    "uptime": "93.13%",
+    "uptime": "93.16%",
     "uptimeDay": "90.77%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "93.13%",
-    "uptimeYear": "93.13%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "93.16%",
+    "uptimeYear": "93.16%",
     "time": 1098,
     "timeDay": 1130,
     "timeWeek": 1098,
@@ -1755,11 +1757,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/breeze.nohost.network.ico",
     "slug": "breeze-wiki-breeze-nohost-network",
     "status": "up",
-    "uptime": "91.49%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "91.49%",
-    "uptimeMonth": "91.49%",
-    "uptimeYear": "91.49%",
+    "uptime": "91.53%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "91.53%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "91.53%",
     "time": 304,
     "timeDay": 360,
     "timeWeek": 304,
@@ -1868,11 +1870,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw.projectsegfau.lt.ico",
     "slug": "breeze-wiki-bw-projectsegfau-lt",
     "status": "up",
-    "uptime": "88.82%",
+    "uptime": "88.87%",
     "uptimeDay": "89.03%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "88.82%",
-    "uptimeYear": "88.82%",
+    "uptimeWeek": "88.87%",
+    "uptimeMonth": "88.87%",
+    "uptimeYear": "88.87%",
     "time": 410,
     "timeDay": 371,
     "timeWeek": 410,
@@ -2008,7 +2010,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 1110,
+      "2023-08-12": 1118,
       "2023-08-11": 823
     }
   },
@@ -2036,11 +2038,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-catsarch-com",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "98.31%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
     "time": 322,
     "timeDay": 297,
     "timeWeek": 322,
@@ -2085,7 +2087,7 @@
     "timeMonth": 298,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-08-12": 1110,
+      "2023-08-12": 1118,
       "2023-08-11": 823
     }
   },
@@ -2131,11 +2133,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-in-projectsegfau-lt",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.73%",
     "uptimeDay": "92.90%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "94.71%",
-    "uptimeYear": "94.71%",
+    "uptimeWeek": "94.73%",
+    "uptimeMonth": "94.73%",
+    "uptimeYear": "94.73%",
     "time": 909,
     "timeDay": 844,
     "timeWeek": 909,
@@ -2188,11 +2190,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-nohost-network",
     "status": "up",
-    "uptime": "92.82%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "92.82%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "92.82%",
+    "uptime": "92.85%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "92.85%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "92.85%",
     "time": 2843,
     "timeDay": 4827,
     "timeWeek": 2843,
