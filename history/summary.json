@@ -106,7 +106,7 @@
     "timeMonth": 616,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2023-08-12": 821,
+      "2023-08-12": 830,
       "2023-08-11": 831
     }
   },
@@ -415,7 +415,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 830,
       "2023-08-11": 827
     }
   },
@@ -490,7 +490,7 @@
     "timeMonth": 832,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 830,
       "2023-08-11": 806
     }
   },
@@ -529,7 +529,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 830,
       "2023-08-11": 826
     }
   },
@@ -568,7 +568,7 @@
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 830,
       "2023-08-11": 812
     }
   },
@@ -757,19 +757,19 @@
     "url": "https://lbry.projectsegfau.lt",
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-projectsegfau-lt",
-    "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
-    "time": 441,
-    "timeDay": 673,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 448,
+    "timeDay": 610,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {
-      "2023-08-12": 11
+      "2023-08-12": 18
     }
   },
   {
@@ -953,7 +953,7 @@
     "timeMonth": 1152,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 830,
       "2023-08-11": 825
     }
   },
@@ -1010,7 +1010,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 830,
       "2023-08-11": 812
     }
   },
@@ -1031,7 +1031,7 @@
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 830,
       "2023-08-11": 825
     }
   },
@@ -1295,11 +1295,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-privacydev-net",
     "status": "up",
-    "uptime": "91.93%",
+    "uptime": "91.97%",
     "uptimeDay": "90.77%",
-    "uptimeWeek": "91.93%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "91.93%",
+    "uptimeWeek": "91.97%",
+    "uptimeMonth": "91.97%",
+    "uptimeYear": "91.97%",
     "time": 1098,
     "timeDay": 1130,
     "timeWeek": 1098,
@@ -1750,11 +1750,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/breeze.nohost.network.ico",
     "slug": "breeze-wiki-breeze-nohost-network",
     "status": "up",
-    "uptime": "90.00%",
+    "uptime": "90.06%",
     "uptimeDay": "88.58%",
-    "uptimeWeek": "90.00%",
-    "uptimeMonth": "90.00%",
-    "uptimeYear": "90.00%",
+    "uptimeWeek": "90.06%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "90.06%",
     "time": 304,
     "timeDay": 322,
     "timeWeek": 304,
@@ -1825,11 +1825,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw.artemislena.eu.ico",
     "slug": "breeze-wiki-bw-artemislena-eu",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "99.35%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 759,
     "timeDay": 598,
     "timeWeek": 759,
@@ -1863,11 +1863,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw.projectsegfau.lt.ico",
     "slug": "breeze-wiki-bw-projectsegfau-lt",
     "status": "up",
-    "uptime": "88.65%",
+    "uptime": "88.71%",
     "uptimeDay": "88.34%",
-    "uptimeWeek": "88.65%",
-    "uptimeMonth": "88.65%",
-    "uptimeYear": "88.65%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "88.71%",
+    "uptimeYear": "88.71%",
     "time": 429,
     "timeDay": 434,
     "timeWeek": 429,
@@ -2003,7 +2003,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 831,
       "2023-08-11": 823
     }
   },
@@ -2031,11 +2031,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-catsarch-com",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "98.31%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.51%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
     "time": 322,
     "timeDay": 297,
     "timeWeek": 322,
@@ -2080,7 +2080,7 @@
     "timeMonth": 298,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-08-12": 822,
+      "2023-08-12": 831,
       "2023-08-11": 823
     }
   },
@@ -2183,11 +2183,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-nohost-network",
     "status": "up",
-    "uptime": "91.56%",
+    "uptime": "91.61%",
     "uptimeDay": "90.36%",
-    "uptimeWeek": "91.56%",
-    "uptimeMonth": "91.56%",
-    "uptimeYear": "91.56%",
+    "uptimeWeek": "91.61%",
+    "uptimeMonth": "91.61%",
+    "uptimeYear": "91.61%",
     "time": 2843,
     "timeDay": 4827,
     "timeWeek": 2843,
