@@ -114,7 +114,7 @@
     "timeMonth": 668,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2023-08-13": 961,
+      "2023-08-13": 979,
       "2023-08-12": 1440,
       "2023-08-11": 831
     }
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 961,
+      "2023-08-13": 979,
       "2023-08-12": 1440,
       "2023-08-11": 827
     }
@@ -506,7 +506,7 @@
     "timeMonth": 1688,
     "timeYear": 1688,
     "dailyMinutesDown": {
-      "2023-08-13": 951,
+      "2023-08-13": 969,
       "2023-08-12": 1440,
       "2023-08-11": 806
     }
@@ -546,7 +546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 961,
+      "2023-08-13": 979,
       "2023-08-12": 1440,
       "2023-08-11": 826
     }
@@ -586,7 +586,7 @@
     "timeMonth": 327,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-08-13": 961,
+      "2023-08-13": 979,
       "2023-08-12": 1440,
       "2023-08-11": 812
     }
@@ -777,11 +777,11 @@
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-projectsegfau-lt",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "99.04%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 448,
     "timeDay": 446,
     "timeWeek": 448,
@@ -972,7 +972,7 @@
     "timeMonth": 1687,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2023-08-13": 961,
+      "2023-08-13": 979,
       "2023-08-12": 1440,
       "2023-08-11": 825
     }
@@ -1030,7 +1030,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 962,
+      "2023-08-13": 979,
       "2023-08-12": 1440,
       "2023-08-11": 812
     }
@@ -1052,7 +1052,7 @@
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-08-13": 962,
+      "2023-08-13": 979,
       "2023-08-12": 1440,
       "2023-08-11": 825
     }
@@ -1063,11 +1063,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.hostux.net.ico",
     "slug": "anonymous-overflow-overflow-hostux-net",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.06%",
     "uptimeDay": "95.62%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "98.05%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "98.06%",
     "time": 342,
     "timeDay": 355,
     "timeWeek": 342,
@@ -1101,11 +1101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.projectsegfau.lt.ico",
     "slug": "anonymous-overflow-overflow-projectsegfau-lt",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "99.04%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
     "time": 618,
     "timeDay": 369,
     "timeWeek": 618,
@@ -1140,11 +1140,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-l-opnxng-com",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "98.74%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 1663,
     "timeDay": 1325,
     "timeWeek": 1663,
@@ -1323,11 +1323,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-privacydev-net",
     "status": "up",
-    "uptime": "80.03%",
+    "uptime": "80.14%",
     "uptimeDay": "64.48%",
-    "uptimeWeek": "80.03%",
-    "uptimeMonth": "80.03%",
-    "uptimeYear": "80.03%",
+    "uptimeWeek": "80.14%",
+    "uptimeMonth": "80.14%",
+    "uptimeYear": "80.14%",
     "time": 1158,
     "timeDay": 1209,
     "timeWeek": 1158,
@@ -1779,11 +1779,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/breeze.nohost.network.ico",
     "slug": "breeze-wiki-breeze-nohost-network",
     "status": "up",
-    "uptime": "94.90%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "94.90%",
-    "uptimeYear": "94.90%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "94.93%",
     "time": 291,
     "timeDay": 189,
     "timeWeek": 291,
@@ -1891,19 +1891,19 @@
     "url": "https://bw.projectsegfau.lt",
     "icon": "https://icons.duckduckgo.com/ip3/bw.projectsegfau.lt.ico",
     "slug": "breeze-wiki-bw-projectsegfau-lt",
-    "status": "down",
-    "uptime": "91.58%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "91.58%",
-    "uptimeMonth": "91.58%",
-    "uptimeYear": "91.58%",
-    "time": 506,
-    "timeDay": 729,
-    "timeWeek": 506,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "91.10%",
+    "uptimeDay": "93.99%",
+    "uptimeWeek": "91.10%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "91.10%",
+    "time": 509,
+    "timeDay": 719,
+    "timeWeek": 509,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2023-08-13": 43,
+      "2023-08-13": 60,
       "2023-08-12": 119,
       "2023-08-11": 110
     }
@@ -2033,7 +2033,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 962,
+      "2023-08-13": 979,
       "2023-08-12": 1440,
       "2023-08-11": 823
     }
@@ -2062,11 +2062,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-catsarch-com",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 326,
     "timeDay": 346,
     "timeWeek": 326,
@@ -2111,7 +2111,7 @@
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-08-13": 962,
+      "2023-08-13": 980,
       "2023-08-12": 1440,
       "2023-08-11": 823
     }
@@ -2158,11 +2158,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-in-projectsegfau-lt",
     "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "96.83%",
+    "uptime": "96.85%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.85%",
     "time": 897,
     "timeDay": 807,
     "timeWeek": 897,
@@ -2215,11 +2215,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-nohost-network",
     "status": "up",
-    "uptime": "95.70%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "95.70%",
-    "uptimeYear": "95.70%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "95.72%",
+    "uptimeYear": "95.72%",
     "time": 2528,
     "timeDay": 324,
     "timeWeek": 2528,
