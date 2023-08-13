@@ -112,7 +112,7 @@
     "timeMonth": 668,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2023-08-13": 518,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 831
     }
@@ -231,11 +231,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tt.vern.cc.ico",
     "slug": "proxi-tok-tt-vern-cc",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "96.45%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.17%",
     "time": 209,
     "timeDay": 185,
     "timeWeek": 209,
@@ -397,11 +397,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gothub.projectsegfau.lt.ico",
     "slug": "got-hub-gothub-projectsegfau-lt",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "99.04%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 377,
     "timeDay": 297,
     "timeWeek": 377,
@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 518,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 827
     }
@@ -492,19 +492,19 @@
     "url": "https://wiki.privacytools.io",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.privacytools.io.ico",
     "slug": "wiki-less-wiki-privacytools-io",
-    "status": "down",
-    "uptime": "0.76%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.76%",
-    "uptimeMonth": "0.76%",
-    "uptimeYear": "0.76%",
-    "time": 832,
-    "timeDay": 0,
-    "timeWeek": 832,
-    "timeMonth": 832,
-    "timeYear": 832,
+    "status": "up",
+    "uptime": "0.82%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
+    "time": 1688,
+    "timeDay": 2543,
+    "timeWeek": 1688,
+    "timeMonth": 1688,
+    "timeYear": 1688,
     "dailyMinutesDown": {
-      "2023-08-13": 518,
+      "2023-08-13": 524,
       "2023-08-12": 1440,
       "2023-08-11": 806
     }
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 518,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 826
     }
@@ -584,7 +584,7 @@
     "timeMonth": 327,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-08-13": 518,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 812
     }
@@ -970,7 +970,7 @@
     "timeMonth": 1687,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2023-08-13": 518,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 825
     }
@@ -1028,7 +1028,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 518,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 812
     }
@@ -1050,7 +1050,7 @@
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-08-13": 518,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 825
     }
@@ -1319,19 +1319,19 @@
     "url": "https://libreddit.privacydev.net",
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-privacydev-net",
-    "status": "up",
-    "uptime": "78.45%",
-    "uptimeDay": "67.58%",
-    "uptimeWeek": "78.45%",
-    "uptimeMonth": "78.45%",
-    "uptimeYear": "78.45%",
+    "status": "down",
+    "uptime": "78.47%",
+    "uptimeDay": "67.52%",
+    "uptimeWeek": "78.47%",
+    "uptimeMonth": "78.47%",
+    "uptimeYear": "78.47%",
     "time": 1131,
     "timeDay": 1164,
     "timeWeek": 1131,
     "timeMonth": 1131,
     "timeYear": 1131,
     "dailyMinutesDown": {
-      "2023-08-13": 433,
+      "2023-08-13": 434,
       "2023-08-12": 124,
       "2023-08-11": 42
     }
@@ -1776,13 +1776,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/breeze.nohost.network.ico",
     "slug": "breeze-wiki-breeze-nohost-network",
     "status": "up",
-    "uptime": "94.09%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "94.09%",
-    "uptimeYear": "94.09%",
+    "uptime": "94.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "94.10%",
     "time": 291,
-    "timeDay": 175,
+    "timeDay": 189,
     "timeWeek": 291,
     "timeMonth": 291,
     "timeYear": 291,
@@ -1889,11 +1889,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw.projectsegfau.lt.ico",
     "slug": "breeze-wiki-bw-projectsegfau-lt",
     "status": "up",
-    "uptime": "90.61%",
+    "uptime": "90.63%",
     "uptimeDay": "94.10%",
-    "uptimeWeek": "90.61%",
-    "uptimeMonth": "90.61%",
-    "uptimeYear": "90.61%",
+    "uptimeWeek": "90.63%",
+    "uptimeMonth": "90.63%",
+    "uptimeYear": "90.63%",
     "time": 392,
     "timeDay": 334,
     "timeWeek": 392,
@@ -2030,7 +2030,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 519,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 823
     }
@@ -2108,7 +2108,7 @@
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-08-13": 519,
+      "2023-08-13": 525,
       "2023-08-12": 1440,
       "2023-08-11": 823
     }
@@ -2155,11 +2155,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-in-projectsegfau-lt",
     "status": "up",
-    "uptime": "96.32%",
+    "uptime": "96.33%",
     "uptimeDay": "94.08%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "96.32%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "96.33%",
+    "uptimeYear": "96.33%",
     "time": 897,
     "timeDay": 807,
     "timeWeek": 897,
@@ -2212,13 +2212,13 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-nohost-network",
     "status": "up",
-    "uptime": "95.01%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "95.01%",
+    "uptime": "95.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "95.02%",
     "time": 2528,
-    "timeDay": 242,
+    "timeDay": 324,
     "timeWeek": 2528,
     "timeMonth": 2528,
     "timeYear": 2528,
