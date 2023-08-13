@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.esmailelbob.xyz.ico",
     "slug": "proxi-tok-proxitok-esmailelbob-xyz",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "98.63%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 837,
     "timeDay": 1070,
     "timeWeek": 837,
@@ -112,7 +112,7 @@
     "timeMonth": 668,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 578,
       "2023-08-12": 1440,
       "2023-08-11": 831
     }
@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 578,
       "2023-08-12": 1440,
       "2023-08-11": 827
     }
@@ -504,7 +504,7 @@
     "timeMonth": 1688,
     "timeYear": 1688,
     "dailyMinutesDown": {
-      "2023-08-13": 560,
+      "2023-08-13": 568,
       "2023-08-12": 1440,
       "2023-08-11": 806
     }
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 578,
       "2023-08-12": 1440,
       "2023-08-11": 826
     }
@@ -584,7 +584,7 @@
     "timeMonth": 327,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 578,
       "2023-08-12": 1440,
       "2023-08-11": 812
     }
@@ -970,7 +970,7 @@
     "timeMonth": 1687,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 578,
       "2023-08-12": 1440,
       "2023-08-11": 825
     }
@@ -1028,7 +1028,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 578,
       "2023-08-12": 1440,
       "2023-08-11": 812
     }
@@ -1050,7 +1050,7 @@
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 578,
       "2023-08-12": 1440,
       "2023-08-11": 825
     }
@@ -1099,11 +1099,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.projectsegfau.lt.ico",
     "slug": "anonymous-overflow-overflow-projectsegfau-lt",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "98.85%",
     "uptimeDay": "99.04%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.84%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 618,
     "timeDay": 369,
     "timeWeek": 618,
@@ -1137,19 +1137,19 @@
     "url": "https://l.opnxng.com",
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-l-opnxng-com",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 1615,
-    "timeDay": 1340,
-    "timeWeek": 1615,
-    "timeMonth": 1615,
-    "timeYear": 1615,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 1663,
+    "timeDay": 1455,
+    "timeWeek": 1663,
+    "timeMonth": 1663,
+    "timeYear": 1663,
     "dailyMinutesDown": {
-      "2023-08-13": 1,
+      "2023-08-13": 9,
       "2023-08-12": 17
     }
   },
@@ -1321,11 +1321,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-libreddit-privacydev-net",
     "status": "up",
-    "uptime": "77.27%",
+    "uptime": "77.34%",
     "uptimeDay": "64.48%",
-    "uptimeWeek": "77.27%",
-    "uptimeMonth": "77.27%",
-    "uptimeYear": "77.27%",
+    "uptimeWeek": "77.34%",
+    "uptimeMonth": "77.34%",
+    "uptimeYear": "77.34%",
     "time": 1158,
     "timeDay": 1209,
     "timeWeek": 1158,
@@ -1777,11 +1777,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/breeze.nohost.network.ico",
     "slug": "breeze-wiki-breeze-nohost-network",
     "status": "up",
-    "uptime": "94.20%",
+    "uptime": "94.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.20%",
-    "uptimeMonth": "94.20%",
-    "uptimeYear": "94.20%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "94.21%",
+    "uptimeYear": "94.21%",
     "time": 291,
     "timeDay": 189,
     "timeWeek": 291,
@@ -1890,11 +1890,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw.projectsegfau.lt.ico",
     "slug": "breeze-wiki-bw-projectsegfau-lt",
     "status": "up",
-    "uptime": "90.78%",
+    "uptime": "90.81%",
     "uptimeDay": "94.10%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "90.78%",
+    "uptimeWeek": "90.81%",
+    "uptimeMonth": "90.81%",
+    "uptimeYear": "90.81%",
     "time": 392,
     "timeDay": 334,
     "timeWeek": 392,
@@ -2031,7 +2031,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 579,
       "2023-08-12": 1440,
       "2023-08-11": 823
     }
@@ -2109,7 +2109,7 @@
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-08-13": 570,
+      "2023-08-13": 579,
       "2023-08-12": 1440,
       "2023-08-11": 823
     }
@@ -2156,11 +2156,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-in-projectsegfau-lt",
     "status": "up",
-    "uptime": "96.39%",
+    "uptime": "96.40%",
     "uptimeDay": "94.08%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "96.39%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "96.40%",
     "time": 897,
     "timeDay": 807,
     "timeWeek": 897,
@@ -2213,11 +2213,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-nohost-network",
     "status": "up",
-    "uptime": "95.10%",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "95.12%",
     "time": 2528,
     "timeDay": 324,
     "timeWeek": 2528,
