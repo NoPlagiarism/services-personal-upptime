@@ -264,13 +264,53 @@ sites:
   url: https://overflow.smnz.de
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: libreddit l.opnxng.com
+  url: https://l.opnxng.com
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: libreddit libreddit.bus-hit.me
   url: https://libreddit.bus-hit.me
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: libreddit libreddit.cachyos.org
+  url: https://libreddit.cachyos.org
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.domain.glass
+  url: https://libreddit.domain.glass
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: libreddit libreddit.freedit.eu
   url: https://libreddit.freedit.eu
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.kavin.rocks
+  url: https://libreddit.kavin.rocks
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.kutay.dev
+  url: https://libreddit.kutay.dev
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.kylrth.com
+  url: https://libreddit.kylrth.com
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.mha.fi
+  url: https://libreddit.mha.fi
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.northboot.xyz
+  url: https://libreddit.northboot.xyz
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
@@ -289,6 +329,26 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: libreddit libreddit.pussthecat.org
+  url: https://libreddit.pussthecat.org
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.spike.codes
+  url: https://libreddit.spike.codes
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.strongthany.cc
+  url: https://libreddit.strongthany.cc
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.tiekoetter.com
+  url: https://libreddit.tiekoetter.com
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: libreddit libreddit.tux.pizza
   url: https://libreddit.tux.pizza
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
@@ -304,18 +364,28 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
+- name: libreddit lr.artemislena.eu
+  url: https://lr.artemislena.eu
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
 - name: libreddit lr.vern.cc
   url: https://lr.vern.cc
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit r.darklab.sh
-  url: https://r.darklab.sh
+- name: libreddit r.walkx.fyi
+  url: https://r.walkx.fyi
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: libreddit reddit.baby
   url: https://reddit.baby
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit reddit.dr460nf1r3.org
+  url: https://reddit.dr460nf1r3.org
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
@@ -329,13 +399,18 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit safereddit.com
-  url: https://safereddit.com
+- name: libreddit reddit.simo.sh
+  url: https://reddit.simo.sh
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit snoo.habedieeh.re
-  url: https://snoo.habedieeh.re
+- name: libreddit reddit.utsav2.dev
+  url: https://reddit.utsav2.dev
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit safereddit.com
+  url: https://safereddit.com
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
