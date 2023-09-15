@@ -1,7 +1,7 @@
 url: https://ryd-proxy.kavin.rocks
-status: up
-code: 404
-responseTime: 276
-lastUpdated: 2023-09-13T23:18:52.578Z
+status: down
+code: 502
+responseTime: 453
+lastUpdated: 2023-09-15T02:19:05.596Z
 startTime: 2023-08-11T10:17:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
