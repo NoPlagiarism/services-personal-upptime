@@ -1,7 +1,7 @@
 url: https://overflow.lunar.icu
-status: up
-code: 200
-responseTime: 325
-lastUpdated: 2023-09-30T16:30:10.412Z
+status: down
+code: 500
+responseTime: 504
+lastUpdated: 2023-09-30T17:10:24.004Z
 startTime: 2023-08-11T10:15:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
