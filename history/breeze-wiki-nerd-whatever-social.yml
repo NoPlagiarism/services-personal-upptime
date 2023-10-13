@@ -1,7 +1,7 @@
 url: https://nerd.whatever.social
-status: up
-code: 200
-responseTime: 503
-lastUpdated: 2023-10-13T04:26:36.315Z
+status: down
+code: 500
+responseTime: 729
+lastUpdated: 2023-10-13T04:38:16.037Z
 startTime: 2023-08-11T10:16:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
