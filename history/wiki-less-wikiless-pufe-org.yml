@@ -1,7 +1,7 @@
 url: https://wikiless.pufe.org
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2023-11-02T23:11:41.602Z
+status: down
+code: 503
+responseTime: 741
+lastUpdated: 2023-11-04T02:15:12.907Z
 startTime: 2023-08-11T10:27:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
