@@ -1,7 +1,7 @@
 url: https://libreddit.domain.glass
-status: down
-code: 503
-responseTime: 256
-lastUpdated: 2023-11-15T21:49:54.019Z
+status: up
+code: 200
+responseTime: 645
+lastUpdated: 2023-11-15T22:14:36.927Z
 startTime: 2023-11-10T15:20:17.065Z
 generator: Upptime <https://github.com/upptime/upptime>
