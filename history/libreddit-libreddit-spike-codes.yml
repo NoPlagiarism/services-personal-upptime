@@ -1,7 +1,7 @@
 url: https://libreddit.spike.codes
-status: up
-code: 200
-responseTime: 591
-lastUpdated: 2023-11-23T04:10:15.620Z
+status: down
+code: 502
+responseTime: 28444
+lastUpdated: 2023-11-23T05:28:55.742Z
 startTime: 2023-11-16T15:21:29.827Z
 generator: Upptime <https://github.com/upptime/upptime>
