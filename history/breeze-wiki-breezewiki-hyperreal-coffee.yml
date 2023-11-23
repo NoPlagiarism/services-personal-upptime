@@ -1,7 +1,7 @@
 url: https://breezewiki.hyperreal.coffee
-status: up
-code: 200
-responseTime: 261
-lastUpdated: 2023-11-22T23:14:10.550Z
+status: down
+code: 502
+responseTime: 3173
+lastUpdated: 2023-11-23T02:19:17.286Z
 startTime: 2023-10-01T15:22:49.044Z
 generator: Upptime <https://github.com/upptime/upptime>
