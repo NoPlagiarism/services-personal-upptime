@@ -1,7 +1,7 @@
 url: https://wiki.privacytools.io
-status: up
-code: 200
-responseTime: 1391
-lastUpdated: 2023-11-30T21:57:06.344Z
+status: down
+code: 502
+responseTime: 10037
+lastUpdated: 2023-11-30T22:13:09.360Z
 startTime: 2023-08-11T10:12:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
