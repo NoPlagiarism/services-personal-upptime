@@ -1,7 +1,7 @@
 url: https://proxitok.lunar.icu
-status: up
-code: 200
-responseTime: 487
-lastUpdated: 2023-12-02T06:55:08.816Z
+status: down
+code: 500
+responseTime: 399
+lastUpdated: 2023-12-02T09:47:59.291Z
 startTime: 2023-08-11T10:10:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
