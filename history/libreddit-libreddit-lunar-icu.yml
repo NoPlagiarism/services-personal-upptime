@@ -1,7 +1,7 @@
 url: https://libreddit.lunar.icu
-status: up
-code: 200
-responseTime: 987
-lastUpdated: 2023-12-03T03:55:54.991Z
+status: down
+code: 500
+responseTime: 346
+lastUpdated: 2023-12-03T07:38:21.509Z
 startTime: 2023-12-01T15:20:50.794Z
 generator: Upptime <https://github.com/upptime/upptime>
