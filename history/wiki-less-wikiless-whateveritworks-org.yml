@@ -1,7 +1,7 @@
 url: https://wikiless.whateveritworks.org
-status: up
-code: 200
-responseTime: 719
-lastUpdated: 2023-12-05T23:11:51.999Z
+status: down
+code: 500
+responseTime: 800
+lastUpdated: 2023-12-06T16:55:19.427Z
 startTime: 2023-08-11T10:27:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
