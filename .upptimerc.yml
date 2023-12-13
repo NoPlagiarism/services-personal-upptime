@@ -36,10 +36,6 @@ sites:
   url: https://proxitok.pabloferreiro.es
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: ProxiTok proxitok.privacy.com.de
-  url: https://proxitok.privacy.com.de
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: ProxiTok proxitok.privacydev.net
   url: https://proxitok.privacydev.net
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
@@ -116,10 +112,6 @@ sites:
   url: https://gothub.projectsegfau.lt
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: WikiLess wiki.604kph.xyz
-  url: https://wiki.604kph.xyz
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: WikiLess wiki.adminforge.de
   url: https://wiki.adminforge.de
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
@@ -136,20 +128,8 @@ sites:
   url: https://wiki.privacytools.io
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: WikiLess wiki.slipfox.xyz
-  url: https://wiki.slipfox.xyz
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: WikiLess wiki.sylentpunk.xyz
-  url: https://wiki.sylentpunk.xyz
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: WikiLess wikiless.esmailelbob.xyz
   url: https://wikiless.esmailelbob.xyz
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: WikiLess wikiless.fascinated.cc
-  url: https://wikiless.fascinated.cc
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: WikiLess wikiless.funami.tech
@@ -162,10 +142,6 @@ sites:
     403]
 - name: WikiLess wikiless.org
   url: https://wikiless.org
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: WikiLess wikiless.pufe.org
-  url: https://wikiless.pufe.org
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: WikiLess wikiless.rawbit.ninja
@@ -220,20 +196,8 @@ sites:
     https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: librarian (discontinued) librarian.esmailelbob.xyz
-  url: https://librarian.esmailelbob.xyz
-  icon: 
-    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: librarian (discontinued) librarian.pussthecat.org
   url: https://librarian.pussthecat.org
-  icon: 
-    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: librarian (discontinued) odysee.owacon.moe
-  url: https://odysee.owacon.moe
   icon: 
     https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
@@ -256,16 +220,8 @@ sites:
   url: https://anonymousoverflow.privacyfucking.rocks
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: AnonymousOverflow ao.bloatcat.tk
-  url: https://ao.bloatcat.tk
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: AnonymousOverflow ao.ftw.lol
   url: https://ao.ftw.lol
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: AnonymousOverflow ao.vern.cc
-  url: https://ao.vern.cc
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: AnonymousOverflow code.whatever.social
@@ -276,16 +232,8 @@ sites:
   url: https://exchange.seitan-ayoub.lol
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: AnonymousOverflow overflow.adminforge.de
-  url: https://overflow.adminforge.de
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: AnonymousOverflow overflow.datura.network
   url: https://overflow.datura.network
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: AnonymousOverflow overflow.fascinated.cc
-  url: https://overflow.fascinated.cc
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: AnonymousOverflow overflow.hostux.net
@@ -296,16 +244,8 @@ sites:
   url: https://overflow.lunar.icu
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: AnonymousOverflow overflow.projectsegfau.lt
-  url: https://overflow.projectsegfau.lt
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: AnonymousOverflow overflow.r4fo.com
   url: https://overflow.r4fo.com
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: AnonymousOverflow overflow.smnz.de
-  url: https://overflow.smnz.de
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: AnonymousOverflow overflow.sudovanilla.com
@@ -374,11 +314,6 @@ sites:
     403]
 - name: libreddit libreddit.pussthecat.org
   url: https://libreddit.pussthecat.org
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: libreddit libreddit.spike.codes
-  url: https://libreddit.spike.codes
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
@@ -508,6 +443,30 @@ sites:
     403]
 - name: BreezeWiki z.opnxng.com
   url: https://z.opnxng.com
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo imgur.artemislena.eu
+  url: https://imgur.artemislena.eu
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.bus-hit.me
+  url: https://rimgo.bus-hit.me
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.pussthecat.org
+  url: https://rimgo.pussthecat.org
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: rimgo rimgo.totaldarkness.net
+  url: https://rimgo.totaldarkness.net
+  icon: 
+    https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: RYD-Proxy ryd-proxy.kavin.rocks
