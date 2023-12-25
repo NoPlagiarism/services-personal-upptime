@@ -1,7 +1,7 @@
 url: https://reddit.invak.id
-status: up
-code: 200
-responseTime: 1652
-lastUpdated: 2023-12-24T23:11:59.101Z
+status: down
+code: 503
+responseTime: 652
+lastUpdated: 2023-12-25T12:14:07.776Z
 startTime: 2023-12-01T15:21:02.160Z
 generator: Upptime <https://github.com/upptime/upptime>
