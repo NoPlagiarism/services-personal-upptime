@@ -1,7 +1,7 @@
 url: https://bw.projectsegfau.lt
-status: up
-code: 200
-responseTime: 421
-lastUpdated: 2024-01-08T11:17:58.134Z
+status: down
+code: 502
+responseTime: 45
+lastUpdated: 2024-01-08T13:01:49.297Z
 startTime: 2023-08-11T10:16:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
