@@ -1,7 +1,7 @@
 url: https://libreddit.privacydev.net
-status: up
-code: 200
-responseTime: 545
-lastUpdated: 2024-01-11T23:14:52.091Z
+status: down
+code: 502
+responseTime: 934
+lastUpdated: 2024-01-12T19:21:59.920Z
 startTime: 2023-12-22T15:18:39.972Z
 generator: Upptime <https://github.com/upptime/upptime>
