@@ -1,7 +1,7 @@
 url: https://wikiless.funami.tech
-status: up
-code: 200
-responseTime: 1054
-lastUpdated: 2024-01-19T23:10:39.394Z
+status: down
+code: 502
+responseTime: 507
+lastUpdated: 2024-01-20T19:00:24.164Z
 startTime: 2023-08-11T10:14:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
