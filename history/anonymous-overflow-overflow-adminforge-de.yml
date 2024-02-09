@@ -1,7 +1,7 @@
 url: https://overflow.adminforge.de
-status: up
-code: 200
-responseTime: 978
-lastUpdated: 2024-02-08T23:14:01.321Z
+status: down
+code: 502
+responseTime: 738
+lastUpdated: 2024-02-09T14:39:58.636Z
 startTime: 2023-12-16T15:18:00.104Z
 generator: Upptime <https://github.com/upptime/upptime>
