@@ -1,7 +1,7 @@
 url: https://libreddit.projectsegfau.lt
-status: up
-code: 200
-responseTime: 929
-lastUpdated: 2024-02-12T23:12:03.503Z
+status: down
+code: 502
+responseTime: 1063
+lastUpdated: 2024-02-13T18:01:16.402Z
 startTime: 2024-02-10T15:18:42.575Z
 generator: Upptime <https://github.com/upptime/upptime>
