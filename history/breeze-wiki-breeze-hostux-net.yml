@@ -1,7 +1,7 @@
 url: https://breeze.hostux.net
-status: up
-code: 200
-responseTime: 508
-lastUpdated: 2024-02-16T23:11:45.120Z
+status: down
+code: 502
+responseTime: 539
+lastUpdated: 2024-02-17T07:10:27.030Z
 startTime: 2023-08-11T10:16:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
