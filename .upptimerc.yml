@@ -292,11 +292,6 @@ sites:
   url: https://overflow.sudovanilla.com
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit discuss.whatever.social
-  url: https://discuss.whatever.social
-  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: libreddit l.opnxng.com
   url: https://l.opnxng.com
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
@@ -304,6 +299,11 @@ sites:
     403]
 - name: libreddit libreddit.bus-hit.me
   url: https://libreddit.bus-hit.me
+  icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: libreddit libreddit.eu.org
+  url: https://libreddit.eu.org
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
@@ -372,8 +372,8 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit safereddit.com
-  url: https://safereddit.com
+- name: libreddit reddit.utsav2.dev
+  url: https://reddit.utsav2.dev
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
