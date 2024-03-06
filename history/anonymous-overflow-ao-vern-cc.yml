@@ -1,7 +1,7 @@
 url: https://ao.vern.cc
-status: up
-code: 200
-responseTime: 219
-lastUpdated: 2024-03-06T02:28:44.322Z
+status: down
+code: 429
+responseTime: 325
+lastUpdated: 2024-03-06T11:44:11.452Z
 startTime: 2023-12-16T15:17:58.080Z
 generator: Upptime <https://github.com/upptime/upptime>
