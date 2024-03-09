@@ -1,7 +1,7 @@
 url: https://tok.adminforge.de
-status: up
-code: 200
-responseTime: 976
-lastUpdated: 2024-03-08T23:13:22.603Z
+status: down
+code: 502
+responseTime: 3635
+lastUpdated: 2024-03-09T07:39:54.139Z
 startTime: 2023-08-11T10:11:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
