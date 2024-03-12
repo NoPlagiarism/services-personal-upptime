@@ -1,7 +1,7 @@
 url: https://discuss.whatever.social
-status: up
-code: 200
-responseTime: 1729
-lastUpdated: 2024-03-12T08:49:31.134Z
+status: down
+code: 401
+responseTime: 591
+lastUpdated: 2024-03-12T17:47:59.336Z
 startTime: 2024-03-01T15:20:39.150Z
 generator: Upptime <https://github.com/upptime/upptime>
