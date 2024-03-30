@@ -1,7 +1,7 @@
 url: https://libreddit.strongthany.cc
-status: up
-code: 200
-responseTime: 2031
-lastUpdated: 2024-03-28T23:16:17.313Z
+status: down
+code: 502
+responseTime: 620
+lastUpdated: 2024-03-30T07:00:01.429Z
 startTime: 2023-12-10T15:19:30.800Z
 generator: Upptime <https://github.com/upptime/upptime>
