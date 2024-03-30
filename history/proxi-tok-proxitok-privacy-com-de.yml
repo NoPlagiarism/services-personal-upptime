@@ -1,7 +1,7 @@
 url: https://proxitok.privacy.com.de
-status: up
-code: 200
-responseTime: 610
-lastUpdated: 2024-03-28T23:11:51.403Z
+status: down
+code: 502
+responseTime: 630
+lastUpdated: 2024-03-30T15:00:47.510Z
 startTime: 2023-12-16T15:16:44.325Z
 generator: Upptime <https://github.com/upptime/upptime>
