@@ -232,8 +232,8 @@ sites:
   url: https://anonymousoverflow.privacyfucking.rocks
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: AnonymousOverflow ao.bloatcat.tk
-  url: https://ao.bloatcat.tk
+- name: AnonymousOverflow ao.bloat.cat
+  url: https://ao.bloat.cat
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: AnonymousOverflow ao.ftw.lol
@@ -290,6 +290,10 @@ sites:
     403]
 - name: AnonymousOverflow overflow.smnz.de
   url: https://overflow.smnz.de
+  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
+    403]
+- name: AnonymousOverflow overflow.snine.nl
+  url: https://overflow.snine.nl
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: AnonymousOverflow overflow.sudovanilla.com
@@ -376,8 +380,8 @@ sites:
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: libreddit reddit.smnz.de
-  url: https://reddit.smnz.de
+- name: libreddit reddit.utsav2.dev
+  url: https://reddit.utsav2.dev
   icon: https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
