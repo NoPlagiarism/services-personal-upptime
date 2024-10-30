@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 619
+      "2024-10-30": 626
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.belloworld.it.ico",
     "slug": "proxi-tok-proxitok-belloworld-it",
     "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
+    "uptime": "98.45%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
     "time": 2154,
     "timeDay": 2154,
     "timeWeek": 2154,
@@ -92,7 +92,7 @@
     "timeMonth": 599,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2024-10-30": 619
+      "2024-10-30": 626
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 651,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-10-30": 619
+      "2024-10-30": 626
     }
   },
   {
@@ -157,18 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.r4fo.com.ico",
     "slug": "proxi-tok-proxitok-r4fo-com",
     "status": "down",
-    "uptime": "85.04%",
-    "uptimeDay": "85.04%",
-    "uptimeWeek": "85.04%",
-    "uptimeMonth": "85.04%",
-    "uptimeYear": "85.04%",
+    "uptime": "84.05%",
+    "uptimeDay": "84.05%",
+    "uptimeWeek": "84.05%",
+    "uptimeMonth": "84.05%",
+    "uptimeYear": "84.05%",
     "time": 854,
     "timeDay": 854,
     "timeWeek": 854,
     "timeMonth": 854,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2024-10-30": 92
+      "2024-10-30": 99
     }
   },
   {
@@ -393,11 +393,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gothub.r4fo.com.ico",
     "slug": "got-hub-gothub-r4fo-com",
     "status": "up",
-    "uptime": "74.49%",
-    "uptimeDay": "74.49%",
-    "uptimeWeek": "74.49%",
-    "uptimeMonth": "74.49%",
-    "uptimeYear": "74.49%",
+    "uptime": "74.78%",
+    "uptimeDay": "74.78%",
+    "uptimeWeek": "74.78%",
+    "uptimeMonth": "74.78%",
+    "uptimeYear": "74.78%",
     "time": 377,
     "timeDay": 377,
     "timeWeek": 377,
@@ -478,7 +478,7 @@
     "timeMonth": 626,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2024-10-30": 618
+      "2024-10-30": 626
     }
   },
   {
@@ -498,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 618
+      "2024-10-30": 626
     }
   },
   {
@@ -554,7 +554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 618
+      "2024-10-30": 625
     }
   },
   {
@@ -610,7 +610,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 618
+      "2024-10-30": 625
     }
   },
   {
@@ -619,11 +619,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wl.vern.cc.ico",
     "slug": "wiki-less-wl-vern-cc",
     "status": "up",
-    "uptime": "90.33%",
-    "uptimeDay": "90.33%",
-    "uptimeWeek": "90.33%",
-    "uptimeMonth": "90.33%",
-    "uptimeYear": "90.33%",
+    "uptime": "90.44%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "90.44%",
+    "uptimeMonth": "90.44%",
+    "uptimeYear": "90.44%",
     "time": 229,
     "timeDay": 229,
     "timeWeek": 229,
@@ -729,11 +729,11 @@
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-vern-cc",
     "status": "up",
-    "uptime": "90.37%",
-    "uptimeDay": "90.37%",
-    "uptimeWeek": "90.37%",
-    "uptimeMonth": "90.37%",
-    "uptimeYear": "90.37%",
+    "uptime": "90.48%",
+    "uptimeDay": "90.48%",
+    "uptimeWeek": "90.48%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "90.48%",
     "time": 219,
     "timeDay": 219,
     "timeWeek": 219,
@@ -778,7 +778,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 618
+      "2024-10-30": 625
     }
   },
   {
@@ -1003,11 +1003,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ao.vern.cc.ico",
     "slug": "anonymous-overflow-ao-vern-cc",
     "status": "up",
-    "uptime": "90.41%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "90.41%",
-    "uptimeMonth": "90.41%",
-    "uptimeYear": "90.41%",
+    "uptime": "90.52%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "90.52%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "90.52%",
     "time": 146,
     "timeDay": 146,
     "timeWeek": 146,
@@ -1052,7 +1052,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 617
+      "2024-10-30": 625
     }
   },
   {
@@ -1072,7 +1072,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 617
+      "2024-10-30": 625
     }
   },
   {
@@ -1092,7 +1092,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 617
+      "2024-10-30": 625
     }
   },
   {
@@ -1184,7 +1184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 617
+      "2024-10-30": 625
     }
   },
   {
@@ -1240,7 +1240,7 @@
     "timeMonth": 3445,
     "timeYear": 3445,
     "dailyMinutesDown": {
-      "2024-10-30": 617
+      "2024-10-30": 624
     }
   },
   {
@@ -1375,18 +1375,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.snine.nl.ico",
     "slug": "anonymous-overflow-overflow-snine-nl",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 3237,
     "timeDay": 3237,
     "timeWeek": 3237,
     "timeMonth": 3237,
     "timeYear": 3237,
     "dailyMinutesDown": {
-      "2024-10-30": 617
+      "2024-10-30": 624
     }
   },
   {
@@ -1521,11 +1521,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-lr-vern-cc",
     "status": "up",
-    "uptime": "90.46%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "90.46%",
+    "uptime": "90.57%",
+    "uptimeDay": "90.57%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "90.57%",
     "time": 422,
     "timeDay": 422,
     "timeWeek": 422,
@@ -1714,7 +1714,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 616
+      "2024-10-30": 624
     }
   },
   {
@@ -1824,7 +1824,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 616
+      "2024-10-30": 623
     }
   },
   {
@@ -1923,11 +1923,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/breezewiki.pussthecat.org.ico",
     "slug": "breeze-wiki-breezewiki-pussthecat-org",
     "status": "up",
-    "uptime": "96.71%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "96.71%",
+    "uptime": "96.75%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "96.75%",
+    "uptimeYear": "96.75%",
     "time": 613,
     "timeDay": 613,
     "timeWeek": 613,
@@ -1942,19 +1942,19 @@
     "url": "https://breezewiki.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/breezewiki.r4fo.com.ico",
     "slug": "breeze-wiki-breezewiki-r4fo-com",
-    "status": "down",
-    "uptime": "94.66%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "94.66%",
-    "time": 334,
-    "timeDay": 334,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "status": "up",
+    "uptime": "93.96%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "93.96%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "93.96%",
+    "time": 340,
+    "timeDay": 340,
+    "timeWeek": 340,
+    "timeMonth": 340,
+    "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-10-30": 33
+      "2024-10-30": 37
     }
   },
   {
@@ -2035,11 +2035,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bw.projectsegfau.lt.ico",
     "slug": "breeze-wiki-bw-projectsegfau-lt",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptime": "98.84%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 599,
     "timeDay": 599,
     "timeWeek": 599,
@@ -2120,7 +2120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 615
+      "2024-10-30": 623
     }
   },
   {
@@ -2201,18 +2201,18 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-totaldarkness-net",
     "status": "down",
-    "uptime": "0.25%",
-    "uptimeDay": "0.25%",
-    "uptimeWeek": "0.25%",
-    "uptimeMonth": "0.25%",
-    "uptimeYear": "0.25%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 614
+      "2024-10-30": 621
     }
   },
   {
@@ -2250,7 +2250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 614
+      "2024-10-30": 621
     }
   },
   {
@@ -2259,18 +2259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudtube.jdelcampo.eu.ico",
     "slug": "cloud-tube-cloudtube-jdelcampo-eu",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 614
+      "2024-10-30": 621
     }
   },
   {
@@ -2297,18 +2297,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tube.mint.lgbt.ico",
     "slug": "cloud-tube-tube-mint-lgbt",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 1787,
     "timeDay": 1787,
     "timeWeek": 1787,
     "timeMonth": 1787,
     "timeYear": 1787,
     "dailyMinutesDown": {
-      "2024-10-30": 614
+      "2024-10-30": 621
     }
   }
 ]
