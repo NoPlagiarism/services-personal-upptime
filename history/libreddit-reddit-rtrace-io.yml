@@ -1,7 +1,7 @@
 url: https://reddit.rtrace.io
-status: down
-code: 503
-responseTime: 656
-lastUpdated: 2024-10-31T20:15:20.136Z
+status: up
+code: 200
+responseTime: 792
+lastUpdated: 2024-10-31T20:30:10.014Z
 startTime: 2024-10-30T00:34:29.887Z
 generator: Upptime <https://github.com/upptime/upptime>
