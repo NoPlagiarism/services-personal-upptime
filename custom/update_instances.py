@@ -16,7 +16,7 @@ def make_seq_inline(x):
 
 
 HEADERS = {"User-Agent": "@NoPlagiarism / services-personal-upptime"}
-ALL_JSON_URL = "https://raw.githubusercontent.com/NoPlagiarism/frontend-instances-list/master/instances/all.json"
+ALL_JSON_URL = "https://raw.githubusercontent.com/NoPlagiarism/instances-list/master/instances/all.json"
 UPPTIMERC_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), ".upptimerc.yml")
 
 SERVICES = ("proxitok", "gothub", "wikiless", "librarian (discontinued)", "anonymousoverflow", "libreddit", "breezewiki", "rimgo", "ryd-proxy", "cloudtube")
