@@ -103,14 +103,6 @@ sites:
   url: https://wiki.phreedom.club
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
-- name: WikiLess wiki.privacytools.io
-  url: https://wiki.privacytools.io
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: WikiLess wikiless.esmailelbob.xyz
-  url: https://wikiless.esmailelbob.xyz
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
 - name: WikiLess wikiless.funami.tech
   url: https://wikiless.funami.tech
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
@@ -129,10 +121,6 @@ sites:
     403]
 - name: WikiLess wikiless.tiekoetter.com
   url: https://wikiless.tiekoetter.com
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: WikiLess wikiless.whateveritworks.org
-  url: https://wikiless.whateveritworks.org
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: WikiLess wl.vern.cc
@@ -177,12 +165,6 @@ sites:
     403]
 - name: librarian (discontinued) librarian.pussthecat.org
   url: https://librarian.pussthecat.org
-  icon: 
-    https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: librarian (discontinued) watch.whateveritworks.org
-  url: https://watch.whateveritworks.org
   icon: 
     https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
@@ -526,10 +508,6 @@ sites:
     403]
 - name: RYD-Proxy ryd-proxy.kavin.rocks
   url: https://ryd-proxy.kavin.rocks
-  expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
-    403]
-- name: RYD-Proxy ryd-proxy.whateveritworks.org
-  url: https://ryd-proxy.whateveritworks.org
   expectedStatusCodes: [200, 201, 202, 203, 200, 204, 205, 206, 207, 208, 226, 404,
     403]
 - name: CloudTube cloudtube.jdelcampo.eu
