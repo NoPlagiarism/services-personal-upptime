@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1408
     }
@@ -44,18 +44,19 @@
     "url": "https://proxitok.belloworld.it",
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.belloworld.it.ico",
     "slug": "proxi-tok-proxitok-belloworld-it",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 3696,
-    "timeDay": 1196,
-    "timeWeek": 3696,
-    "timeMonth": 3696,
-    "timeYear": 3696,
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 3432,
+    "timeDay": 1151,
+    "timeWeek": 3432,
+    "timeMonth": 3432,
+    "timeYear": 3432,
     "dailyMinutesDown": {
+      "2024-11-01": 2,
       "2024-10-30": 17
     }
   },
@@ -94,7 +95,7 @@
     "timeMonth": 975,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1408
     }
@@ -116,7 +117,7 @@
     "timeMonth": 808,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1408
     }
@@ -162,19 +163,19 @@
     "url": "https://proxitok.r4fo.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.r4fo.com.ico",
     "slug": "proxi-tok-proxitok-r4fo-com",
-    "status": "down",
-    "uptime": "83.36%",
-    "uptimeDay": "88.42%",
-    "uptimeWeek": "83.36%",
-    "uptimeMonth": "83.36%",
-    "uptimeYear": "83.36%",
-    "time": 686,
-    "timeDay": 1016,
-    "timeWeek": 686,
-    "timeMonth": 686,
-    "timeYear": 686,
+    "status": "up",
+    "uptime": "83.26%",
+    "uptimeDay": "88.04%",
+    "uptimeWeek": "83.26%",
+    "uptimeMonth": "83.26%",
+    "uptimeYear": "83.26%",
+    "time": 678,
+    "timeDay": 969,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-11-01": 127,
+      "2024-11-01": 132,
       "2024-10-31": 351,
       "2024-10-30": 209
     }
@@ -401,11 +402,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gothub.r4fo.com.ico",
     "slug": "got-hub-gothub-r4fo-com",
     "status": "up",
-    "uptime": "84.56%",
+    "uptime": "84.59%",
     "uptimeDay": "95.52%",
-    "uptimeWeek": "84.56%",
-    "uptimeMonth": "84.56%",
-    "uptimeYear": "84.56%",
+    "uptimeWeek": "84.59%",
+    "uptimeMonth": "84.59%",
+    "uptimeYear": "84.59%",
     "time": 420,
     "timeDay": 484,
     "timeWeek": 420,
@@ -524,7 +525,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1407
     }
@@ -574,11 +575,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wl.vern.cc.ico",
     "slug": "wiki-less-wl-vern-cc",
     "status": "up",
-    "uptime": "94.38%",
+    "uptime": "94.39%",
     "uptimeDay": "92.44%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "94.38%",
-    "uptimeYear": "94.38%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "94.39%",
+    "uptimeYear": "94.39%",
     "time": 448,
     "timeDay": 509,
     "timeWeek": 448,
@@ -668,11 +669,11 @@
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-slipfox-xyz",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 1080,
     "timeDay": 2527,
     "timeWeek": 1080,
@@ -688,11 +689,11 @@
     "icon": "https://codeberg.org/librarian/librarian/raw/branch/main/static/favicon/mstile-70x70.png",
     "slug": "librarian-discontinued-lbry-vern-cc",
     "status": "up",
-    "uptime": "97.30%",
+    "uptime": "97.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "97.30%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.31%",
     "time": 391,
     "timeDay": 495,
     "timeWeek": 391,
@@ -889,11 +890,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ao.ngn.tf.ico",
     "slug": "anonymous-overflow-ao-ngn-tf",
     "status": "up",
-    "uptime": "87.81%",
+    "uptime": "87.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.81%",
-    "uptimeMonth": "87.81%",
-    "uptimeYear": "87.81%",
+    "uptimeWeek": "87.83%",
+    "uptimeMonth": "87.83%",
+    "uptimeYear": "87.83%",
     "time": 739,
     "timeDay": 892,
     "timeWeek": 739,
@@ -946,11 +947,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ao.vern.cc.ico",
     "slug": "anonymous-overflow-ao-vern-cc",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "97.31%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
     "time": 292,
     "timeDay": 404,
     "timeWeek": 292,
@@ -996,7 +997,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1406
     }
@@ -1018,7 +1019,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1406
     }
@@ -1040,7 +1041,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1406
     }
@@ -1105,18 +1106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.darkness.services.ico",
     "slug": "anonymous-overflow-overflow-darkness-services",
     "status": "down",
-    "uptime": "91.60%",
-    "uptimeDay": "75.87%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "91.60%",
+    "uptime": "91.43%",
+    "uptimeDay": "75.33%",
+    "uptimeWeek": "91.43%",
+    "uptimeMonth": "91.43%",
+    "uptimeYear": "91.43%",
     "time": 278,
     "timeDay": 298,
     "timeWeek": 278,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-11-01": 347
+      "2024-11-01": 355
     }
   },
   {
@@ -1136,7 +1137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1406
     }
@@ -1194,7 +1195,7 @@
     "timeMonth": 2959,
     "timeYear": 2959,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1406
     }
@@ -1279,11 +1280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.r4fo.com.ico",
     "slug": "anonymous-overflow-overflow-r4fo-com",
     "status": "up",
-    "uptime": "86.31%",
+    "uptime": "86.34%",
     "uptimeDay": "76.37%",
-    "uptimeWeek": "86.31%",
-    "uptimeMonth": "86.31%",
-    "uptimeYear": "86.31%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "86.34%",
+    "uptimeYear": "86.34%",
     "time": 616,
     "timeDay": 361,
     "timeWeek": 616,
@@ -1350,7 +1351,7 @@
     "timeMonth": 3263,
     "timeYear": 3263,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1406
     }
@@ -1379,11 +1380,11 @@
     "icon": "https://raw.githubusercontent.com/libreddit/libreddit/master/static/favicon.png",
     "slug": "libreddit-l-opnxng-com",
     "status": "up",
-    "uptime": "88.79%",
+    "uptime": "88.81%",
     "uptimeDay": "72.40%",
-    "uptimeWeek": "88.79%",
-    "uptimeMonth": "88.79%",
-    "uptimeYear": "88.79%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "88.81%",
     "time": 4142,
     "timeDay": 5592,
     "timeWeek": 4142,
@@ -1523,7 +1524,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1405
     }
@@ -1637,7 +1638,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1405
     }
@@ -1759,11 +1760,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/breezewiki.r4fo.com.ico",
     "slug": "breeze-wiki-breezewiki-r4fo-com",
     "status": "up",
-    "uptime": "83.13%",
-    "uptimeDay": "90.70%",
-    "uptimeWeek": "83.13%",
-    "uptimeMonth": "83.13%",
-    "uptimeYear": "83.13%",
+    "uptime": "83.17%",
+    "uptimeDay": "91.24%",
+    "uptimeWeek": "83.17%",
+    "uptimeMonth": "83.17%",
+    "uptimeYear": "83.17%",
     "time": 393,
     "timeDay": 436,
     "timeWeek": 393,
@@ -1945,7 +1946,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1404
     }
@@ -2030,11 +2031,11 @@
     "icon": "https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/static/img/rimgo.svg",
     "slug": "rimgo-rimgo-totaldarkness-net",
     "status": "up",
-    "uptime": "70.03%",
+    "uptime": "70.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.03%",
-    "uptimeMonth": "70.03%",
-    "uptimeYear": "70.03%",
+    "uptimeWeek": "70.09%",
+    "uptimeMonth": "70.09%",
+    "uptimeYear": "70.09%",
     "time": 256,
     "timeDay": 302,
     "timeWeek": 256,
@@ -2079,7 +2080,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1402
     }
@@ -2119,7 +2120,7 @@
     "timeMonth": 1737,
     "timeYear": 1737,
     "dailyMinutesDown": {
-      "2024-11-01": 1292,
+      "2024-11-01": 1300,
       "2024-10-31": 1440,
       "2024-10-30": 1402
     }
